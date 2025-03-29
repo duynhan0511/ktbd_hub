@@ -1,0 +1,14 @@
+[2025-03-27 23:09:39] ❌ Lỗi insert player 52780584775806: 'str' object is not callable
+[2025-03-29 09:44:48] ❌ Lỗi insert player 52780584775806: 'str' object is not callable
+[2025-03-29 09:52:21] ❌ Lỗi insert player 52780584775806: 'str' object is not callable
+[2025-03-29 09:52:44] ❌ Lỗi insert player 52780584775806: 'str' object is not callable
+[2025-03-29 10:00:40] ❌ Lỗi insert player 52780584775806: 'str' object is not callable
+[2025-03-29 10:11:02] ❌ Lỗi insert player 52780584775806: 'str' object is not callable
+[2025-03-29 10:11:31] ❌ Lỗi insert player 52780584775806: 'str' object is not callable
+[2025-03-29 10:17:15] ✅ Đã insert player Kylian Mbappé (52780584775806) vào MySQL
+[2025-03-29 10:45:50] ✅ Đã insert manager Steven Gerrard (17595138936066) vào MySQL
+[2025-03-29 11:48:32] ✅ Đã insert team None (#108) vào MySQL
+[2025-03-29 17:23:25] ✅ Đã insert team None (#108) vào MySQL
+[2025-03-29 18:01:52] ✅ Đã insert team FC Barcelona (#108) vào MySQL
+[2025-03-29 18:46:45] ✅ Đã insert player Kylian Mbappé (52780584775806) vào MySQL
+[2025-03-29 18:47:02] ⏩ Player Kylian Mbappé (52780584775806) không thay đổi, bỏ qua.
