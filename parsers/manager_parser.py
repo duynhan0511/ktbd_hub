@@ -1,5 +1,6 @@
 def parse_manager(raw):
-    data = raw.get("data", {})
+    # data = raw.get("data", {})
+    data = raw
     country = data.get("country", {})
     booster = data.get("booster", {})
 

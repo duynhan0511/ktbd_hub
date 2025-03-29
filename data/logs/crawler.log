@@ -12,3 +12,75 @@
 [2025-03-29 18:01:52] ✅ Đã insert team FC Barcelona (#108) vào MySQL
 [2025-03-29 18:46:45] ✅ Đã insert player Kylian Mbappé (52780584775806) vào MySQL
 [2025-03-29 18:47:02] ⏩ Player Kylian Mbappé (52780584775806) không thay đổi, bỏ qua.
+[2025-03-29 22:34:14] 📦 Crawling page 1...
+[2025-03-29 22:34:15] 📦 Crawling page 2...
+[2025-03-29 22:34:15] 📦 Crawling page 3...
+[2025-03-29 22:34:16] ❌ Đã crawl hết dữ liệu ở trang 3, kết thúc.
+[2025-03-29 22:34:16] 🎉 Tổng cộng đã crawl 0 managers.
+[2025-03-29 22:49:03] 📦 Crawling page 1...
+[2025-03-29 23:01:59] 📦 Crawling page 1...
+[2025-03-29 23:01:59] 📦 Crawling page 2...
+[2025-03-29 23:01:59] 📦 Crawling page 3...
+[2025-03-29 23:02:00] ❌ Đã đến trang 3, dừng lại.
+[2025-03-29 23:02:00] 🎉 Tổng cộng đã crawl 0 managers.
+[2025-03-29 23:02:52] 📦 Crawling page 1...
+[2025-03-29 23:02:52] 📦 Crawling page 2...
+[2025-03-29 23:02:53] 📦 Crawling page 3...
+[2025-03-29 23:02:53] ❌ Đã đến trang 3, dừng lại.
+[2025-03-29 23:02:53] 🎉 Tổng cộng đã crawl 0 managers.
+[2025-03-29 23:03:17] 📦 Crawling page 1...
+[2025-03-29 23:03:17] 📦 Crawling page 2...
+[2025-03-29 23:03:17] 📦 Crawling page 3...
+[2025-03-29 23:03:18] ❌ Đã đến trang 3, dừng lại.
+[2025-03-29 23:03:18] 🎉 Tổng cộng đã crawl 0 managers.
+[2025-03-29 23:03:33] 📦 Crawling page 1...
+[2025-03-29 23:03:33] ✅ Đã insert manager Daniel Piscopo (8488609) vào MySQL
+[2025-03-29 23:03:34] ✅ Đã insert manager Fred Arterton (8488610) vào MySQL
+[2025-03-29 23:03:35] ✅ Đã insert manager Max Hanell (8488611) vào MySQL
+[2025-03-29 23:03:36] ✅ Đã insert manager Emmerich Vander (8488612) vào MySQL
+[2025-03-29 23:03:37] ✅ Đã insert manager Luis A. Roman (8488613) vào MySQL
+[2025-03-29 23:03:37] ✅ Đã insert manager Osmar Loss (8488614) vào MySQL
+[2025-03-29 23:03:38] ✅ Đã insert manager D. Stojković (17594333629521) vào MySQL
+[2025-03-29 23:03:39] ✅ Đã insert manager Steven Gerrard (17595138936066) vào MySQL
+[2025-03-29 23:03:40] ✅ Đã insert manager Frank Lampard (17595944242399) vào MySQL
+[2025-03-29 23:03:41] ✅ Đã insert manager Frank Rijkaard (17596212679870) vào MySQL
+[2025-03-29 23:03:42] ✅ Đã insert manager José Mourinho (17597017982861) vào MySQL
+[2025-03-29 23:03:42] ✅ Đã insert manager Olympio H. (17594073481737) vào MySQL
+[2025-03-29 23:03:43] ✅ Đã insert manager L. de la Fuente (17594333631255) vào MySQL
+[2025-03-29 23:03:44] ✅ Đã insert manager Patrick Vieira (17595407371499) vào MySQL
+[2025-03-29 23:03:45] ✅ Đã insert manager G. P. Gasperini (17597823189022) vào MySQL
+[2025-03-29 23:03:46] ✅ Đã insert manager Xabi Alonso (17598897033429) vào MySQL
+[2025-03-29 23:03:46] ✅ Đã insert manager D. Deschamps (17594065092748) vào MySQL
+[2025-03-29 23:03:47] ✅ Đã insert manager G. Southgate (17594065193592) vào MySQL
+[2025-03-29 23:03:48] ✅ Đã insert manager Lionel Scaloni (17594065194415) vào MySQL
+[2025-03-29 23:03:49] ✅ Đã insert manager R. Martínez (17594065092609) vào MySQL
+[2025-03-29 23:03:50] ✅ Đã insert manager Vincent Kompany (17597286420066) vào MySQL
+[2025-03-29 23:03:51] ✅ Đã insert manager Simone Inzaghi (17598091725265) vào MySQL
+[2025-03-29 23:03:51] ✅ Đã insert manager Pep Guardiola (17592454480088) vào MySQL
+[2025-03-29 23:03:52] ✅ Đã insert manager Pep Guardiola (17593796657368) vào MySQL
+[2025-03-29 23:03:53] ✅ Đã insert manager V. Montella (17594065092637) vào MySQL
+[2025-03-29 23:03:54] ✅ Đã insert manager Mikel Arteta (17594870501085) vào MySQL
+[2025-03-29 23:03:55] ✅ Đã insert manager Paulo Fonseca (17595675705641) vào MySQL
+[2025-03-29 23:03:56] ✅ Đã insert manager Ronald Koeman (17596481012062) vào MySQL
+[2025-03-29 23:03:56] ✅ Đã insert manager Hansi Flick (17597554855616) vào MySQL
+[2025-03-29 23:03:57] ✅ Đã insert manager Luis A. Roman (8388824) vào MySQL
+[2025-03-29 23:03:58] ✅ Đã insert manager Ruben Amorim (17596749549482) vào MySQL
+[2025-03-29 23:03:59] ✅ Đã insert manager Siever Olney (8492051) vào MySQL
+[2025-03-29 23:04:00] ✅ Đã insert manager Otmar Ulbricht (8492052) vào MySQL
+[2025-03-29 23:04:01] ✅ Đã insert manager Julian Randall (8492053) vào MySQL
+[2025-03-29 23:04:01] ✅ Đã insert manager Johan Cruyff (17592186146302) vào MySQL
+[2025-03-29 23:04:02] ✅ Đã insert manager Mikel Arteta (17592991452893) vào MySQL
+[2025-03-29 23:04:03] ✅ Đã insert manager Stefano Pioli (17593259786612) vào MySQL
+[2025-03-29 23:04:04] ✅ Đã insert manager Xabi Alonso (17593796759765) vào MySQL
+[2025-03-29 23:04:05] ✅ Đã insert manager Erik ten Hag (17592991451474) vào MySQL
+[2025-03-29 23:04:06] ✅ Đã insert manager Cristo Valbuena (8388660) vào MySQL
+[2025-03-29 23:04:06] ✅ Đã insert manager Simone Inzaghi (17593259887057) vào MySQL
+[2025-03-29 23:04:07] ✅ Đã insert manager Thomas Tuchel (17593259887058) vào MySQL
+[2025-03-29 23:04:08] ✅ Đã insert manager Giovam Ripa (8388714) vào MySQL
+[2025-03-29 23:04:09] ✅ Đã insert manager Zico (17593528325190) vào MySQL
+[2025-03-29 23:04:10] ✅ Đã insert manager Dino Millesi (8388659) vào MySQL
+[2025-03-29 23:04:10] ✅ Đã insert manager Xavi Hernández (17592991452928) vào MySQL
+[2025-03-29 23:04:11] ✅ Đã insert manager G. P. Gasperini (30) vào MySQL
+[2025-03-29 23:04:12] ✅ Đã insert manager José Mourinho (100237) vào MySQL
+[2025-03-29 23:04:13] ✅ Đã insert manager Hansi Flick (102080) vào MySQL
+[2025-03-29 23:04:14] ✅ Đã insert manager Mikel Arteta (102109) vào MySQL
