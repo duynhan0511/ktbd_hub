@@ -1,8 +1,8 @@
-def parse_team(raw):
+def parse_team(raw, competition_id=None):
     data = raw.get("data", {})
 
     return {
-        "team_id": data.get("id"),
+        "team_id": data.get("pes_id"),
         "manager_id": data.get("manager_id"),
         "base_manager_id": data.get("base_manager_id"),
         # "base_manager_id": data.get("base_manager_id"),
@@ -15,4 +15,5 @@ def parse_team(raw):
         "stadium_id": data.get("stadium_id"),
         "team_sort_number": data.get("team_sort_number"),
         "non_playable_league": data.get("non_playable_league"),
+        "competition_id": competition_id  # ✅ Thêm dòng này
     }

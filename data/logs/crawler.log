@@ -92,3 +92,1035 @@
 [2025-03-30 16:36:54] ✅ Đã insert player Taro Misaki (170589) vào MySQL
 [2025-03-30 16:36:55] ✅ Đã insert player Kojiro Hyuga (170590) vào MySQL
 [2025-03-30 16:36:57] ✅ Đã insert player Jun Misugi (170592) vào MySQL
+[2025-03-30 18:16:22] ✅ Đã insert competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) vào MySQL
+[2025-03-30 18:22:00] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:22:17] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:22:35] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:23:00] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:23:19] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:23:53] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:24:04] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:24:38] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:24:49] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:24:49] ✅ Đã insert team Hokkaido (#5989) vào MySQL
+[2025-03-30 18:24:50] ✅ Đã insert team Aomori (#5990) vào MySQL
+[2025-03-30 18:24:51] ✅ Đã insert team Iwate (#5991) vào MySQL
+[2025-03-30 18:24:53] ✅ Đã insert team Miyagi (#5992) vào MySQL
+[2025-03-30 18:24:54] ✅ Đã insert team Akita (#5993) vào MySQL
+[2025-03-30 18:24:55] ✅ Đã insert team Yamagata (#5994) vào MySQL
+[2025-03-30 18:24:56] ✅ Đã insert team Fukushima (#5995) vào MySQL
+[2025-03-30 18:24:57] ✅ Đã insert team Ibaraki (#5996) vào MySQL
+[2025-03-30 18:24:58] ✅ Đã insert team Tochigi (#5997) vào MySQL
+[2025-03-30 18:24:59] ✅ Đã insert team Gunma (#5998) vào MySQL
+[2025-03-30 18:25:00] ✅ Đã insert team Saitama (#5999) vào MySQL
+[2025-03-30 18:25:01] ✅ Đã insert team Chiba (#6000) vào MySQL
+[2025-03-30 18:25:03] ✅ Đã insert team Tokyo (#6001) vào MySQL
+[2025-03-30 18:25:04] ✅ Đã insert team Kanagawa (#6002) vào MySQL
+[2025-03-30 18:25:05] ✅ Đã insert team Niigata (#6003) vào MySQL
+[2025-03-30 18:25:06] ✅ Đã insert team Yamanashi (#6004) vào MySQL
+[2025-03-30 18:25:08] ✅ Đã insert team Nagano (#6005) vào MySQL
+[2025-03-30 18:25:09] ✅ Đã insert team Toyama (#6006) vào MySQL
+[2025-03-30 18:25:10] ✅ Đã insert team Ishikawa (#6007) vào MySQL
+[2025-03-30 18:25:11] ✅ Đã insert team Fukui (#6008) vào MySQL
+[2025-03-30 18:25:12] ✅ Đã insert team Gifu (#6009) vào MySQL
+[2025-03-30 18:25:13] ✅ Đã insert team Shizuoka (#6010) vào MySQL
+[2025-03-30 18:25:14] ✅ Đã insert team Aichi (#6011) vào MySQL
+[2025-03-30 18:25:15] ✅ Đã insert team Mie (#6012) vào MySQL
+[2025-03-30 18:25:16] ✅ Đã insert team Shiga (#6013) vào MySQL
+[2025-03-30 18:25:17] ✅ Đã insert team Kyoto (#6014) vào MySQL
+[2025-03-30 18:25:18] ✅ Đã insert team Osaka (#6015) vào MySQL
+[2025-03-30 18:25:20] ✅ Đã insert team Hyogo (#6016) vào MySQL
+[2025-03-30 18:25:21] ✅ Đã insert team Nara (#6017) vào MySQL
+[2025-03-30 18:25:22] ✅ Đã insert team Wakayama (#6018) vào MySQL
+[2025-03-30 18:25:23] ✅ Đã insert team Tottori (#6019) vào MySQL
+[2025-03-30 18:25:25] ✅ Đã insert team Shimane (#6020) vào MySQL
+[2025-03-30 18:25:26] ✅ Đã insert team Okayama (#6021) vào MySQL
+[2025-03-30 18:25:27] ✅ Đã insert team Hiroshima (#6022) vào MySQL
+[2025-03-30 18:25:28] ✅ Đã insert team Yamaguchi (#6023) vào MySQL
+[2025-03-30 18:25:30] ✅ Đã insert team Tokushima (#6024) vào MySQL
+[2025-03-30 18:25:31] ✅ Đã insert team Kagawa (#6025) vào MySQL
+[2025-03-30 18:25:32] ✅ Đã insert team Ehime (#6026) vào MySQL
+[2025-03-30 18:25:34] ✅ Đã insert team Kochi (#6027) vào MySQL
+[2025-03-30 18:25:35] ✅ Đã insert team Fukuoka (#6028) vào MySQL
+[2025-03-30 18:25:36] ✅ Đã insert team Saga (#6029) vào MySQL
+[2025-03-30 18:25:37] ✅ Đã insert team Nagasaki (#6030) vào MySQL
+[2025-03-30 18:25:39] ✅ Đã insert team Kumamoto (#6031) vào MySQL
+[2025-03-30 18:25:40] ✅ Đã insert team Oita (#6032) vào MySQL
+[2025-03-30 18:25:41] ✅ Đã insert team Miyazaki (#6033) vào MySQL
+[2025-03-30 18:25:42] ✅ Đã insert team Kagoshima (#6034) vào MySQL
+[2025-03-30 18:25:44] ✅ Đã insert team Okinawa (#6035) vào MySQL
+[2025-03-30 18:25:44] ✅ Đã insert competition English League (113) vào MySQL
+[2025-03-30 18:25:45] ✅ Đã insert team Manchester United (#100) vào MySQL
+[2025-03-30 18:25:46] ✅ Đã insert team Arsenal FC (#101) vào MySQL
+[2025-03-30 18:25:48] ✅ Đã insert team Chelsea B (#102) vào MySQL
+[2025-03-30 18:25:49] ✅ Đã insert team Liverpool R (#103) vào MySQL
+[2025-03-30 18:25:51] ✅ Đã insert team West Ham RB (#105) vào MySQL
+[2025-03-30 18:25:52] ✅ Đã insert team Newcastle WB (#106) vào MySQL
+[2025-03-30 18:25:54] ✅ Đã insert team Aston RB (#107) vào MySQL
+[2025-03-30 18:25:55] ✅ Đã insert team Manchester B (#173) vào MySQL
+[2025-03-30 18:25:57] ✅ Đã insert team Everton B (#177) vào MySQL
+[2025-03-30 18:25:59] ✅ Đã insert team Fulham W (#178) vào MySQL
+[2025-03-30 18:26:01] ✅ Đã insert team Tottenham WB (#179) vào MySQL
+[2025-03-30 18:26:02] ✅ Đã insert team Leicester B (#204) vào MySQL
+[2025-03-30 18:26:04] ✅ Đã insert team Southampton RW (#207) vào MySQL
+[2025-03-30 18:26:05] ✅ Đã insert team Wolverhampton YB (#208) vào MySQL
+[2025-03-30 18:26:06] ✅ Đã insert team Brighton WB (#377) vào MySQL
+[2025-03-30 18:26:07] ✅ Đã insert team Crystal Palace RB (#382) vào MySQL
+[2025-03-30 18:26:08] ✅ Đã insert team Ipswich BW (#386) vào MySQL
+[2025-03-30 18:26:09] ✅ Đã insert team Nottingham RW (#389) vào MySQL
+[2025-03-30 18:26:10] ✅ Đã insert team Bournemouth RB (#4071) vào MySQL
+[2025-03-30 18:26:12] ✅ Đã insert team Brentford RW (#4180) vào MySQL
+[2025-03-30 18:26:13] ✅ Đã insert competition Lega Italia (116) vào MySQL
+[2025-03-30 18:26:13] ✅ Đã insert team Internazionale Milano (#119) vào MySQL
+[2025-03-30 18:26:15] ✅ Đã insert team Piemonte BN (#120) vào MySQL
+[2025-03-30 18:26:16] ✅ Đã insert team AC Milan (#121) vào MySQL
+[2025-03-30 18:26:17] ✅ Đã insert team S.S. Lazio (#122) vào MySQL
+[2025-03-30 18:26:18] ✅ Đã insert team Parma GB (#123) vào MySQL
+[2025-03-30 18:26:19] ✅ Đã insert team Firenze V (#124) vào MySQL
+[2025-03-30 18:26:21] ✅ Đã insert team Roma GR (#125) vào MySQL
+[2025-03-30 18:26:23] ✅ Đã insert team Bologna RB (#186) vào MySQL
+[2025-03-30 18:26:25] ✅ Đã insert team Udine BN (#190) vào MySQL
+[2025-03-30 18:26:26] ✅ Đã insert team Atalanta BC (#234) vào MySQL
+[2025-03-30 18:26:28] ✅ Đã insert team Empoli A (#235) vào MySQL
+[2025-03-30 18:26:29] ✅ Đã insert team Cagliari RB (#320) vào MySQL
+[2025-03-30 18:26:31] ✅ Đã insert team Genova RB (#323) vào MySQL
+[2025-03-30 18:26:32] ✅ Đã insert team Napoli A (#327) vào MySQL
+[2025-03-30 18:26:34] ✅ Đã insert team Torino G (#333) vào MySQL
+[2025-03-30 18:26:35] ✅ Đã insert team Verona GB (#336) vào MySQL
+[2025-03-30 18:26:36] ✅ Đã insert team Como A (#4219) vào MySQL
+[2025-03-30 18:26:38] ✅ Đã insert team Venezia ANV (#4229) vào MySQL
+[2025-03-30 18:26:40] ✅ Đã insert team Lecce GR (#4237) vào MySQL
+[2025-03-30 18:26:41] ✅ Đã insert team Monza RB (#4914) vào MySQL
+[2025-03-30 18:26:42] ✅ Đã insert competition Spanish League (119) vào MySQL
+[2025-03-30 18:26:42] ✅ Đã insert team FC Barcelona (#108) vào MySQL
+[2025-03-30 18:26:43] ✅ Đã insert team Madrid Chamartin B (#109) vào MySQL
+[2025-03-30 18:26:45] ✅ Đã insert team Valencia BN (#110) vào MySQL
+[2025-03-30 18:26:47] ✅ Đã insert team Madrid Rosas RB (#172) vào MySQL
+[2025-03-30 18:26:48] ✅ Đã insert team Sevilla Triana VB (#194) vào MySQL
+[2025-03-30 18:26:50] ✅ Đã insert team Vigo AB (#195) vào MySQL
+[2025-03-30 18:26:51] ✅ Đã insert team Vasco Gipuzkoa AB (#196) vào MySQL
+[2025-03-30 18:26:53] ✅ Đã insert team Bilbao BR (#258) vào MySQL
+[2025-03-30 18:26:55] ✅ Đã insert team Llobregat AB (#259) vào MySQL
+[2025-03-30 18:26:56] ✅ Đã insert team Mallorca RN (#261) vào MySQL
+[2025-03-30 18:26:57] ✅ Đã insert team Pamplona RA (#263) vào MySQL
+[2025-03-30 18:26:59] ✅ Đã insert team Sevilla Nervión BR (#265) vào MySQL
+[2025-03-30 18:27:01] ✅ Đã insert team Valladolid MB (#266) vào MySQL
+[2025-03-30 18:27:02] ✅ Đã insert team Villarreal A (#267) vào MySQL
+[2025-03-30 18:27:05] ✅ Đã insert team Getafe A (#362) vào MySQL
+[2025-03-30 18:27:06] ✅ Đã insert team Las Palmas AA (#364) vào MySQL
+[2025-03-30 18:27:07] ✅ Đã insert team Vallecas BR (#370) vào MySQL
+[2025-03-30 18:27:09] ✅ Đã insert team Girona R (#2187) vào MySQL
+[2025-03-30 18:27:10] ✅ Đã insert team Álava AB (#4145) vào MySQL
+[2025-03-30 18:27:12] ✅ Đã insert team Leganés AB (#4272) vào MySQL
+[2025-03-30 18:27:13] ✅ Đã insert competition Ligue 1 McDonald’s (122) vào MySQL
+[2025-03-30 18:27:13] ✅ Đã insert team AS Monaco (#112) vào MySQL
+[2025-03-30 18:27:15] ✅ Đã insert team Olympique de Marseille (#113) vào MySQL
+[2025-03-30 18:27:18] ✅ Đã insert team Paris Saint-Germain (#114) vào MySQL
+[2025-03-30 18:27:19] ✅ Đã insert team AJ Auxerre (#180) vào MySQL
+[2025-03-30 18:27:21] ✅ Đã insert team Olympique Lyonnais (#181) vào MySQL
+[2025-03-30 18:27:22] ✅ Đã insert team RC Lens (#182) vào MySQL
+[2025-03-30 18:27:24] ✅ Đã insert team LOSC Lille (#213) vào MySQL
+[2025-03-30 18:27:25] ✅ Đã insert team Montpellier Hérault SC (#215) vào MySQL
+[2025-03-30 18:27:27] ✅ Đã insert team FC Nantes (#216) vào MySQL
+[2025-03-30 18:27:30] ✅ Đã insert team OGC Nice (#217) vào MySQL
+[2025-03-30 18:27:31] ✅ Đã insert team Stade Rennais FC (#218) vào MySQL
+[2025-03-30 18:27:33] ✅ Đã insert team Toulouse FC (#221) vào MySQL
+[2025-03-30 18:27:34] ✅ Đã insert team Angers SCO (#403) vào MySQL
+[2025-03-30 18:27:35] ✅ Đã insert team Havre AC (#413) vào MySQL
+[2025-03-30 18:27:36] ✅ Đã insert team AS Saint-Étienne (#418) vào MySQL
+[2025-03-30 18:27:38] ✅ Đã insert team Stade Brestois 29 (#1329) vào MySQL
+[2025-03-30 18:27:39] ✅ Đã insert team Stade de Reims (#1330) vào MySQL
+[2025-03-30 18:27:40] ✅ Đã insert team RC Strasbourg Alsace (#4213) vào MySQL
+[2025-03-30 18:27:41] ✅ Đã insert competition Eredivisie (125) vào MySQL
+[2025-03-30 18:27:42] ✅ Đã insert team AFC Ajax (#116) vào MySQL
+[2025-03-30 18:27:43] ✅ Đã insert team Feyenoord Rotterdam (#117) vào MySQL
+[2025-03-30 18:27:46] ✅ Đã insert team PSV Eindhoven (#118) vào MySQL
+[2025-03-30 18:27:47] ✅ Đã insert team AZ Alkmaar (#242) vào MySQL
+[2025-03-30 18:27:49] ✅ Đã insert team FC Groningen (#244) vào MySQL
+[2025-03-30 18:27:51] ✅ Đã insert team SC Heerenveen (#245) vào MySQL
+[2025-03-30 18:27:53] ✅ Đã insert team NAC Breda (#246) vào MySQL
+[2025-03-30 18:27:54] ✅ Đã insert team N.E.C. Nijmegen (#247) vào MySQL
+[2025-03-30 18:27:56] ✅ Đã insert team FC Twente Enschede (#250) vào MySQL
+[2025-03-30 18:27:58] ✅ Đã insert team FC Utrecht (#251) vào MySQL
+[2025-03-30 18:28:00] ✅ Đã insert team RKC Waalwijk (#254) vào MySQL
+[2025-03-30 18:28:01] ✅ Đã insert team Willem II Tilburg (#255) vào MySQL
+[2025-03-30 18:28:03] ✅ Đã insert team PEC Zwolle (#256) vào MySQL
+[2025-03-30 18:28:05] ✅ Đã insert team Fortuna Sittard (#345) vào MySQL
+[2025-03-30 18:28:06] ✅ Đã insert team Go Ahead Eagles (#346) vào MySQL
+[2025-03-30 18:28:08] ✅ Đã insert team Heracles Almelo (#349) vào MySQL
+[2025-03-30 18:28:09] ✅ Đã insert team Sparta Rotterdam (#351) vào MySQL
+[2025-03-30 18:28:11] ✅ Đã insert team Almere City FC (#1598) vào MySQL
+[2025-03-30 18:28:12] ✅ Đã insert competition Liga Portugal Betclic (128) vào MySQL
+[2025-03-30 18:28:12] ✅ Đã insert team SL Benfica (#191) vào MySQL
+[2025-03-30 18:28:14] ✅ Đã insert team FC Porto (#192) vào MySQL
+[2025-03-30 18:28:16] ✅ Đã insert team Sporting CP (#193) vào MySQL
+[2025-03-30 18:28:18] ✅ Đã insert team Vitória SC (#1804) vào MySQL
+[2025-03-30 18:28:19] ✅ Đã insert team CD Nacional (#1944) vào MySQL
+[2025-03-30 18:28:22] ✅ Đã insert team Sporting Braga (#1974) vào MySQL
+[2025-03-30 18:28:23] ✅ Đã insert team Rio Ave FC (#1979) vào MySQL
+[2025-03-30 18:28:25] ✅ Đã insert team FC Arouca (#2380) vào MySQL
+[2025-03-30 18:28:27] ✅ Đã insert team GD Estoril Praia (#2383) vào MySQL
+[2025-03-30 18:28:28] ✅ Đã insert team Gil Vicente FC (#2387) vào MySQL
+[2025-03-30 18:28:30] ✅ Đã insert team Moreirense FC (#2388) vào MySQL
+[2025-03-30 18:28:32] ✅ Đã insert team CD Santa Clara (#2391) vào MySQL
+[2025-03-30 18:28:34] ✅ Đã insert team SC Farense (#4086) vào MySQL
+[2025-03-30 18:28:35] ✅ Đã insert team Boavista FC (#4323) vào MySQL
+[2025-03-30 18:28:37] ✅ Đã insert team FC Famalicão (#5028) vào MySQL
+[2025-03-30 18:28:39] ✅ Đã insert team Casa Pia AC (#5633) vào MySQL
+[2025-03-30 18:28:41] ✅ Đã insert team CF Estrela da Amadora (#5844) vào MySQL
+[2025-03-30 18:28:43] ✅ Đã insert team AVS Futebol (#5954) vào MySQL
+[2025-03-30 18:28:44] ✅ Đã insert competition European Cup (200) vào MySQL
+[2025-03-30 18:28:45] ✅ Đã insert team Scotland (#3) vào MySQL
+[2025-03-30 18:28:46] ✅ Đã insert team England (#5) vào MySQL
+[2025-03-30 18:28:48] ✅ Đã insert team Portugal (#6) vào MySQL
+[2025-03-30 18:28:49] ✅ Đã insert team Spain (#7) vào MySQL
+[2025-03-30 18:28:51] ✅ Đã insert team France (#8) vào MySQL
+[2025-03-30 18:28:52] ✅ Đã insert team Belgium (#9) vào MySQL
+[2025-03-30 18:28:54] ✅ Đã insert team Netherlands (#10) vào MySQL
+[2025-03-30 18:28:56] ✅ Đã insert team Switzerland (#11) vào MySQL
+[2025-03-30 18:28:57] ✅ Đã insert team Italy (#12) vào MySQL
+[2025-03-30 18:28:58] ✅ Đã insert team Czechia (#13) vào MySQL
+[2025-03-30 18:29:00] ✅ Đã insert team Germany (#14) vào MySQL
+[2025-03-30 18:29:02] ✅ Đã insert team Denmark (#15) vào MySQL
+[2025-03-30 18:29:04] ✅ Đã insert team Poland (#19) vào MySQL
+[2025-03-30 18:29:05] ✅ Đã insert team Slovakia (#20) vào MySQL
+[2025-03-30 18:29:07] ✅ Đã insert team Austria (#21) vào MySQL
+[2025-03-30 18:29:09] ✅ Đã insert team Hungary (#22) vào MySQL
+[2025-03-30 18:29:10] ✅ Đã insert team Slovenia (#23) vào MySQL
+[2025-03-30 18:29:11] ✅ Đã insert team Croatia (#24) vào MySQL
+[2025-03-30 18:29:12] ✅ Đã insert team Romania (#26) vào MySQL
+[2025-03-30 18:29:14] ✅ Đã insert team Türkiye (#29) vào MySQL
+[2025-03-30 18:29:15] ✅ Đã insert team Ukraine (#30) vào MySQL
+[2025-03-30 18:29:16] ✅ Đã insert team Albania (#1165) vào MySQL
+[2025-03-30 18:29:17] ✅ Đã insert team Georgia (#1174) vào MySQL
+[2025-03-30 18:29:18] ✅ Đã insert team Serbia (#1550) vào MySQL
+[2025-03-30 18:29:19] ✅ Đã insert competition English 2nd Division (337) vào MySQL
+[2025-03-30 18:29:20] ✅ Đã insert team Leeds W (#104) vào MySQL
+[2025-03-30 18:29:23] ✅ Đã insert team Blackburn BW (#176) vào MySQL
+[2025-03-30 18:29:24] ✅ Đã insert team Middlesbrough RW (#205) vào MySQL
+[2025-03-30 18:29:26] ✅ Đã insert team Burnley RB (#378) vào MySQL
+[2025-03-30 18:29:28] ✅ Đã insert team Cardiff B (#379) vào MySQL
+[2025-03-30 18:29:30] ✅ Đã insert team Derby WB (#383) vào MySQL
+[2025-03-30 18:29:31] ✅ Đã insert team Millwall BW (#387) vào MySQL
+[2025-03-30 18:29:33] ✅ Đã insert team Norwich YG (#388) vào MySQL
+[2025-03-30 18:29:35] ✅ Đã insert team Sheffield BW (#394) vào MySQL
+[2025-03-30 18:29:36] ✅ Đã insert team Stoke RW (#395) vào MySQL
+[2025-03-30 18:30:26] ⏩ Competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) không thay đổi, bỏ qua.
+[2025-03-30 18:30:27] ⏩ Team Hokkaido (#5989) không thay đổi, bỏ qua.
+[2025-03-30 18:30:27] ⏩ Team Aomori (#5990) không thay đổi, bỏ qua.
+[2025-03-30 18:30:28] ⏩ Team Iwate (#5991) không thay đổi, bỏ qua.
+[2025-03-30 18:30:29] ⏩ Team Miyagi (#5992) không thay đổi, bỏ qua.
+[2025-03-30 18:30:30] ⏩ Team Akita (#5993) không thay đổi, bỏ qua.
+[2025-03-30 18:30:31] ⏩ Team Yamagata (#5994) không thay đổi, bỏ qua.
+[2025-03-30 18:30:32] ⏩ Team Fukushima (#5995) không thay đổi, bỏ qua.
+[2025-03-30 18:30:33] ⏩ Team Ibaraki (#5996) không thay đổi, bỏ qua.
+[2025-03-30 18:30:34] ⏩ Team Tochigi (#5997) không thay đổi, bỏ qua.
+[2025-03-30 18:30:35] ⏩ Team Gunma (#5998) không thay đổi, bỏ qua.
+[2025-03-30 18:30:35] ⏩ Team Saitama (#5999) không thay đổi, bỏ qua.
+[2025-03-30 18:30:36] ⏩ Team Chiba (#6000) không thay đổi, bỏ qua.
+[2025-03-30 18:37:10] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0715_f_l.png.webp
+[2025-03-30 18:38:36] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0715_f_l.png.webp
+[2025-03-30 18:40:27] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0715_f_l.png.webp
+[2025-03-30 18:40:27] ✅ Đã insert competition 全国都道府県対抗eスポーツ選手権 2024 SAGA (715) vào MySQL
+[2025-03-30 18:40:27] ⏩ Team Hokkaido (#5989) không thay đổi, bỏ qua.
+[2025-03-30 18:40:28] ⏩ Team Aomori (#5990) không thay đổi, bỏ qua.
+[2025-03-30 18:40:29] ✅ Đã insert team Iwate (#5991) vào MySQL
+[2025-03-30 18:40:30] ✅ Đã insert team Miyagi (#5992) vào MySQL
+[2025-03-30 18:40:31] ✅ Đã insert team Akita (#5993) vào MySQL
+[2025-03-30 18:40:32] ✅ Đã insert team Yamagata (#5994) vào MySQL
+[2025-03-30 18:40:32] ✅ Đã insert team Fukushima (#5995) vào MySQL
+[2025-03-30 18:40:33] ✅ Đã insert team Ibaraki (#5996) vào MySQL
+[2025-03-30 18:40:34] ✅ Đã insert team Tochigi (#5997) vào MySQL
+[2025-03-30 18:40:35] ✅ Đã insert team Gunma (#5998) vào MySQL
+[2025-03-30 18:40:35] ✅ Đã insert team Saitama (#5999) vào MySQL
+[2025-03-30 18:40:36] ✅ Đã insert team Chiba (#6000) vào MySQL
+[2025-03-30 18:40:37] ✅ Đã insert team Tokyo (#6001) vào MySQL
+[2025-03-30 18:40:38] ✅ Đã insert team Kanagawa (#6002) vào MySQL
+[2025-03-30 18:40:39] ✅ Đã insert team Niigata (#6003) vào MySQL
+[2025-03-30 18:40:40] ✅ Đã insert team Yamanashi (#6004) vào MySQL
+[2025-03-30 18:40:41] ✅ Đã insert team Nagano (#6005) vào MySQL
+[2025-03-30 18:40:42] ✅ Đã insert team Toyama (#6006) vào MySQL
+[2025-03-30 18:40:43] ✅ Đã insert team Ishikawa (#6007) vào MySQL
+[2025-03-30 18:40:43] ✅ Đã insert team Fukui (#6008) vào MySQL
+[2025-03-30 18:40:44] ✅ Đã insert team Gifu (#6009) vào MySQL
+[2025-03-30 18:40:45] ✅ Đã insert team Shizuoka (#6010) vào MySQL
+[2025-03-30 18:40:46] ✅ Đã insert team Aichi (#6011) vào MySQL
+[2025-03-30 18:40:47] ✅ Đã insert team Mie (#6012) vào MySQL
+[2025-03-30 18:40:48] ⏩ Team Shiga (#6013) không thay đổi, bỏ qua.
+[2025-03-30 18:40:49] ⏩ Team Kyoto (#6014) không thay đổi, bỏ qua.
+[2025-03-30 18:40:49] ⏩ Team Osaka (#6015) không thay đổi, bỏ qua.
+[2025-03-30 18:40:50] ⏩ Team Hyogo (#6016) không thay đổi, bỏ qua.
+[2025-03-30 18:40:51] ⏩ Team Nara (#6017) không thay đổi, bỏ qua.
+[2025-03-30 18:40:52] ⏩ Team Wakayama (#6018) không thay đổi, bỏ qua.
+[2025-03-30 18:40:53] ⏩ Team Tottori (#6019) không thay đổi, bỏ qua.
+[2025-03-30 18:40:54] ⏩ Team Shimane (#6020) không thay đổi, bỏ qua.
+[2025-03-30 18:40:55] ⏩ Team Okayama (#6021) không thay đổi, bỏ qua.
+[2025-03-30 18:40:56] ⏩ Team Hiroshima (#6022) không thay đổi, bỏ qua.
+[2025-03-30 18:40:57] ⏩ Team Yamaguchi (#6023) không thay đổi, bỏ qua.
+[2025-03-30 18:40:57] ⏩ Team Tokushima (#6024) không thay đổi, bỏ qua.
+[2025-03-30 18:40:58] ⏩ Team Kagawa (#6025) không thay đổi, bỏ qua.
+[2025-03-30 18:40:59] ⏩ Team Ehime (#6026) không thay đổi, bỏ qua.
+[2025-03-30 18:41:00] ⏩ Team Kochi (#6027) không thay đổi, bỏ qua.
+[2025-03-30 18:41:01] ⏩ Team Fukuoka (#6028) không thay đổi, bỏ qua.
+[2025-03-30 18:41:01] ⏩ Team Saga (#6029) không thay đổi, bỏ qua.
+[2025-03-30 18:41:02] ⏩ Team Nagasaki (#6030) không thay đổi, bỏ qua.
+[2025-03-30 18:41:03] ⏩ Team Kumamoto (#6031) không thay đổi, bỏ qua.
+[2025-03-30 18:41:04] ⏩ Team Oita (#6032) không thay đổi, bỏ qua.
+[2025-03-30 18:41:05] ⏩ Team Miyazaki (#6033) không thay đổi, bỏ qua.
+[2025-03-30 18:41:06] ⏩ Team Kagoshima (#6034) không thay đổi, bỏ qua.
+[2025-03-30 18:41:07] ⏩ Team Okinawa (#6035) không thay đổi, bỏ qua.
+[2025-03-30 18:41:08] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0113_f_l.png.webp
+[2025-03-30 18:41:08] ✅ Đã insert competition English League (113) vào MySQL
+[2025-03-30 18:41:08] ⏩ Team Manchester United (#100) không thay đổi, bỏ qua.
+[2025-03-30 18:41:09] ⏩ Team Arsenal FC (#101) không thay đổi, bỏ qua.
+[2025-03-30 18:41:10] ⏩ Team Chelsea B (#102) không thay đổi, bỏ qua.
+[2025-03-30 18:41:11] ⏩ Team Liverpool R (#103) không thay đổi, bỏ qua.
+[2025-03-30 18:41:11] ⏩ Team West Ham RB (#105) không thay đổi, bỏ qua.
+[2025-03-30 18:41:12] ⏩ Team Newcastle WB (#106) không thay đổi, bỏ qua.
+[2025-03-30 18:41:13] ⏩ Team Aston RB (#107) không thay đổi, bỏ qua.
+[2025-03-30 18:41:14] ⏩ Team Manchester B (#173) không thay đổi, bỏ qua.
+[2025-03-30 18:41:14] ⏩ Team Everton B (#177) không thay đổi, bỏ qua.
+[2025-03-30 18:41:15] ⏩ Team Fulham W (#178) không thay đổi, bỏ qua.
+[2025-03-30 18:41:16] ⏩ Team Tottenham WB (#179) không thay đổi, bỏ qua.
+[2025-03-30 18:41:16] ⏩ Team Leicester B (#204) không thay đổi, bỏ qua.
+[2025-03-30 18:41:17] ⏩ Team Southampton RW (#207) không thay đổi, bỏ qua.
+[2025-03-30 18:41:18] ⏩ Team Wolverhampton YB (#208) không thay đổi, bỏ qua.
+[2025-03-30 18:41:19] ⏩ Team Brighton WB (#377) không thay đổi, bỏ qua.
+[2025-03-30 18:41:19] ⏩ Team Crystal Palace RB (#382) không thay đổi, bỏ qua.
+[2025-03-30 18:41:20] ⏩ Team Ipswich BW (#386) không thay đổi, bỏ qua.
+[2025-03-30 18:41:21] ⏩ Team Nottingham RW (#389) không thay đổi, bỏ qua.
+[2025-03-30 18:41:22] ⏩ Team Bournemouth RB (#4071) không thay đổi, bỏ qua.
+[2025-03-30 18:41:23] ⏩ Team Brentford RW (#4180) không thay đổi, bỏ qua.
+[2025-03-30 18:41:24] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0116_f_l.png.webp
+[2025-03-30 18:41:24] ✅ Đã insert competition Lega Italia (116) vào MySQL
+[2025-03-30 18:41:24] ⏩ Team Internazionale Milano (#119) không thay đổi, bỏ qua.
+[2025-03-30 18:41:25] ⏩ Team Piemonte BN (#120) không thay đổi, bỏ qua.
+[2025-03-30 18:41:25] ⏩ Team AC Milan (#121) không thay đổi, bỏ qua.
+[2025-03-30 18:41:27] ⏩ Team S.S. Lazio (#122) không thay đổi, bỏ qua.
+[2025-03-30 18:41:27] ⏩ Team Parma GB (#123) không thay đổi, bỏ qua.
+[2025-03-30 18:41:29] ⏩ Team Firenze V (#124) không thay đổi, bỏ qua.
+[2025-03-30 18:41:29] ⏩ Team Roma GR (#125) không thay đổi, bỏ qua.
+[2025-03-30 18:41:30] ⏩ Team Bologna RB (#186) không thay đổi, bỏ qua.
+[2025-03-30 18:41:31] ⏩ Team Udine BN (#190) không thay đổi, bỏ qua.
+[2025-03-30 18:41:32] ⏩ Team Atalanta BC (#234) không thay đổi, bỏ qua.
+[2025-03-30 18:41:33] ⏩ Team Empoli A (#235) không thay đổi, bỏ qua.
+[2025-03-30 18:41:34] ⏩ Team Cagliari RB (#320) không thay đổi, bỏ qua.
+[2025-03-30 18:41:35] ⏩ Team Genova RB (#323) không thay đổi, bỏ qua.
+[2025-03-30 18:41:35] ⏩ Team Napoli A (#327) không thay đổi, bỏ qua.
+[2025-03-30 18:41:36] ⏩ Team Torino G (#333) không thay đổi, bỏ qua.
+[2025-03-30 18:41:37] ⏩ Team Verona GB (#336) không thay đổi, bỏ qua.
+[2025-03-30 18:41:38] ⏩ Team Como A (#4219) không thay đổi, bỏ qua.
+[2025-03-30 18:41:39] ⏩ Team Venezia ANV (#4229) không thay đổi, bỏ qua.
+[2025-03-30 18:41:40] ⏩ Team Lecce GR (#4237) không thay đổi, bỏ qua.
+[2025-03-30 18:41:41] ⏩ Team Monza RB (#4914) không thay đổi, bỏ qua.
+[2025-03-30 18:41:41] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0119_f_l.png.webp
+[2025-03-30 18:41:41] ✅ Đã insert competition Spanish League (119) vào MySQL
+[2025-03-30 18:41:41] ⏩ Team FC Barcelona (#108) không thay đổi, bỏ qua.
+[2025-03-30 18:41:42] ⏩ Team Madrid Chamartin B (#109) không thay đổi, bỏ qua.
+[2025-03-30 18:41:43] ⏩ Team Valencia BN (#110) không thay đổi, bỏ qua.
+[2025-03-30 18:41:44] ⏩ Team Madrid Rosas RB (#172) không thay đổi, bỏ qua.
+[2025-03-30 18:41:44] ⏩ Team Sevilla Triana VB (#194) không thay đổi, bỏ qua.
+[2025-03-30 18:41:45] ⏩ Team Vigo AB (#195) không thay đổi, bỏ qua.
+[2025-03-30 18:41:46] ⏩ Team Vasco Gipuzkoa AB (#196) không thay đổi, bỏ qua.
+[2025-03-30 18:41:46] ⏩ Team Bilbao BR (#258) không thay đổi, bỏ qua.
+[2025-03-30 18:41:47] ⏩ Team Llobregat AB (#259) không thay đổi, bỏ qua.
+[2025-03-30 18:41:48] ⏩ Team Mallorca RN (#261) không thay đổi, bỏ qua.
+[2025-03-30 18:41:49] ⏩ Team Pamplona RA (#263) không thay đổi, bỏ qua.
+[2025-03-30 18:41:49] ⏩ Team Sevilla Nervión BR (#265) không thay đổi, bỏ qua.
+[2025-03-30 18:41:50] ⏩ Team Valladolid MB (#266) không thay đổi, bỏ qua.
+[2025-03-30 18:41:51] ⏩ Team Villarreal A (#267) không thay đổi, bỏ qua.
+[2025-03-30 18:41:52] ⏩ Team Getafe A (#362) không thay đổi, bỏ qua.
+[2025-03-30 18:41:53] ⏩ Team Las Palmas AA (#364) không thay đổi, bỏ qua.
+[2025-03-30 18:41:53] ⏩ Team Vallecas BR (#370) không thay đổi, bỏ qua.
+[2025-03-30 18:41:54] ⏩ Team Girona R (#2187) không thay đổi, bỏ qua.
+[2025-03-30 18:41:55] ⏩ Team Álava AB (#4145) không thay đổi, bỏ qua.
+[2025-03-30 18:41:56] ⏩ Team Leganés AB (#4272) không thay đổi, bỏ qua.
+[2025-03-30 18:41:57] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0122_f_l.png.webp
+[2025-03-30 18:41:57] ✅ Đã insert competition Ligue 1 McDonald’s (122) vào MySQL
+[2025-03-30 18:41:57] ⏩ Team AS Monaco (#112) không thay đổi, bỏ qua.
+[2025-03-30 18:41:58] ⏩ Team Olympique de Marseille (#113) không thay đổi, bỏ qua.
+[2025-03-30 18:41:59] ⏩ Team Paris Saint-Germain (#114) không thay đổi, bỏ qua.
+[2025-03-30 18:42:00] ⏩ Team AJ Auxerre (#180) không thay đổi, bỏ qua.
+[2025-03-30 18:42:01] ⏩ Team Olympique Lyonnais (#181) không thay đổi, bỏ qua.
+[2025-03-30 18:42:02] ⏩ Team RC Lens (#182) không thay đổi, bỏ qua.
+[2025-03-30 18:42:03] ⏩ Team LOSC Lille (#213) không thay đổi, bỏ qua.
+[2025-03-30 18:42:04] ⏩ Team Montpellier Hérault SC (#215) không thay đổi, bỏ qua.
+[2025-03-30 18:42:05] ⏩ Team FC Nantes (#216) không thay đổi, bỏ qua.
+[2025-03-30 18:42:06] ⏩ Team OGC Nice (#217) không thay đổi, bỏ qua.
+[2025-03-30 18:42:06] ⏩ Team Stade Rennais FC (#218) không thay đổi, bỏ qua.
+[2025-03-30 18:42:07] ⏩ Team Toulouse FC (#221) không thay đổi, bỏ qua.
+[2025-03-30 18:42:08] ⏩ Team Angers SCO (#403) không thay đổi, bỏ qua.
+[2025-03-30 18:42:09] ⏩ Team Havre AC (#413) không thay đổi, bỏ qua.
+[2025-03-30 18:42:10] ⏩ Team AS Saint-Étienne (#418) không thay đổi, bỏ qua.
+[2025-03-30 18:42:10] ⏩ Team Stade Brestois 29 (#1329) không thay đổi, bỏ qua.
+[2025-03-30 18:42:11] ⏩ Team Stade de Reims (#1330) không thay đổi, bỏ qua.
+[2025-03-30 18:42:12] ⏩ Team RC Strasbourg Alsace (#4213) không thay đổi, bỏ qua.
+[2025-03-30 18:42:12] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0125_f_l.png.webp
+[2025-03-30 18:42:12] ✅ Đã insert competition Eredivisie (125) vào MySQL
+[2025-03-30 18:42:12] ⏩ Team AFC Ajax (#116) không thay đổi, bỏ qua.
+[2025-03-30 18:42:13] ⏩ Team Feyenoord Rotterdam (#117) không thay đổi, bỏ qua.
+[2025-03-30 18:42:14] ⏩ Team PSV Eindhoven (#118) không thay đổi, bỏ qua.
+[2025-03-30 18:42:15] ⏩ Team AZ Alkmaar (#242) không thay đổi, bỏ qua.
+[2025-03-30 18:42:16] ⏩ Team FC Groningen (#244) không thay đổi, bỏ qua.
+[2025-03-30 18:42:17] ⏩ Team SC Heerenveen (#245) không thay đổi, bỏ qua.
+[2025-03-30 18:42:17] ⏩ Team NAC Breda (#246) không thay đổi, bỏ qua.
+[2025-03-30 18:42:18] ⏩ Team N.E.C. Nijmegen (#247) không thay đổi, bỏ qua.
+[2025-03-30 18:42:19] ⏩ Team FC Twente Enschede (#250) không thay đổi, bỏ qua.
+[2025-03-30 18:42:20] ⏩ Team FC Utrecht (#251) không thay đổi, bỏ qua.
+[2025-03-30 18:42:20] ⏩ Team RKC Waalwijk (#254) không thay đổi, bỏ qua.
+[2025-03-30 18:42:21] ⏩ Team Willem II Tilburg (#255) không thay đổi, bỏ qua.
+[2025-03-30 18:42:22] ⏩ Team PEC Zwolle (#256) không thay đổi, bỏ qua.
+[2025-03-30 18:42:23] ⏩ Team Fortuna Sittard (#345) không thay đổi, bỏ qua.
+[2025-03-30 18:42:24] ⏩ Team Go Ahead Eagles (#346) không thay đổi, bỏ qua.
+[2025-03-30 18:42:25] ⏩ Team Heracles Almelo (#349) không thay đổi, bỏ qua.
+[2025-03-30 18:42:26] ⏩ Team Sparta Rotterdam (#351) không thay đổi, bỏ qua.
+[2025-03-30 18:42:27] ⏩ Team Almere City FC (#1598) không thay đổi, bỏ qua.
+[2025-03-30 18:42:28] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0128_f_l.png.webp
+[2025-03-30 18:42:28] ✅ Đã insert competition Liga Portugal Betclic (128) vào MySQL
+[2025-03-30 18:42:28] ⏩ Team SL Benfica (#191) không thay đổi, bỏ qua.
+[2025-03-30 18:42:29] ⏩ Team FC Porto (#192) không thay đổi, bỏ qua.
+[2025-03-30 18:42:30] ⏩ Team Sporting CP (#193) không thay đổi, bỏ qua.
+[2025-03-30 18:42:30] ⏩ Team Vitória SC (#1804) không thay đổi, bỏ qua.
+[2025-03-30 18:42:31] ⏩ Team CD Nacional (#1944) không thay đổi, bỏ qua.
+[2025-03-30 18:42:32] ⏩ Team Sporting Braga (#1974) không thay đổi, bỏ qua.
+[2025-03-30 18:42:33] ⏩ Team Rio Ave FC (#1979) không thay đổi, bỏ qua.
+[2025-03-30 18:42:33] ⏩ Team FC Arouca (#2380) không thay đổi, bỏ qua.
+[2025-03-30 18:42:34] ⏩ Team GD Estoril Praia (#2383) không thay đổi, bỏ qua.
+[2025-03-30 18:42:35] ⏩ Team Gil Vicente FC (#2387) không thay đổi, bỏ qua.
+[2025-03-30 18:42:36] ⏩ Team Moreirense FC (#2388) không thay đổi, bỏ qua.
+[2025-03-30 18:42:37] ⏩ Team CD Santa Clara (#2391) không thay đổi, bỏ qua.
+[2025-03-30 18:42:37] ⏩ Team SC Farense (#4086) không thay đổi, bỏ qua.
+[2025-03-30 18:42:38] ⏩ Team Boavista FC (#4323) không thay đổi, bỏ qua.
+[2025-03-30 18:42:39] ⏩ Team FC Famalicão (#5028) không thay đổi, bỏ qua.
+[2025-03-30 18:42:40] ⏩ Team Casa Pia AC (#5633) không thay đổi, bỏ qua.
+[2025-03-30 18:42:41] ⏩ Team CF Estrela da Amadora (#5844) không thay đổi, bỏ qua.
+[2025-03-30 18:42:41] ⏩ Team AVS Futebol (#5954) không thay đổi, bỏ qua.
+[2025-03-30 18:42:42] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0200_f_l.png.webp
+[2025-03-30 18:42:42] ✅ Đã insert competition European Cup (200) vào MySQL
+[2025-03-30 18:42:42] ⏩ Team Scotland (#3) không thay đổi, bỏ qua.
+[2025-03-30 18:42:43] ⏩ Team England (#5) không thay đổi, bỏ qua.
+[2025-03-30 18:42:44] ⏩ Team Portugal (#6) không thay đổi, bỏ qua.
+[2025-03-30 18:42:45] ⏩ Team Spain (#7) không thay đổi, bỏ qua.
+[2025-03-30 18:42:46] ⏩ Team France (#8) không thay đổi, bỏ qua.
+[2025-03-30 18:42:46] ⏩ Team Belgium (#9) không thay đổi, bỏ qua.
+[2025-03-30 18:42:47] ⏩ Team Netherlands (#10) không thay đổi, bỏ qua.
+[2025-03-30 18:42:48] ⏩ Team Switzerland (#11) không thay đổi, bỏ qua.
+[2025-03-30 18:42:49] ⏩ Team Italy (#12) không thay đổi, bỏ qua.
+[2025-03-30 18:42:50] ⏩ Team Czechia (#13) không thay đổi, bỏ qua.
+[2025-03-30 18:42:50] ⏩ Team Germany (#14) không thay đổi, bỏ qua.
+[2025-03-30 18:42:51] ⏩ Team Denmark (#15) không thay đổi, bỏ qua.
+[2025-03-30 18:42:52] ⏩ Team Poland (#19) không thay đổi, bỏ qua.
+[2025-03-30 18:42:53] ⏩ Team Slovakia (#20) không thay đổi, bỏ qua.
+[2025-03-30 18:42:54] ⏩ Team Austria (#21) không thay đổi, bỏ qua.
+[2025-03-30 18:42:55] ⏩ Team Hungary (#22) không thay đổi, bỏ qua.
+[2025-03-30 18:42:56] ⏩ Team Slovenia (#23) không thay đổi, bỏ qua.
+[2025-03-30 18:42:57] ⏩ Team Croatia (#24) không thay đổi, bỏ qua.
+[2025-03-30 18:42:58] ⏩ Team Romania (#26) không thay đổi, bỏ qua.
+[2025-03-30 18:42:58] ⏩ Team Türkiye (#29) không thay đổi, bỏ qua.
+[2025-03-30 18:42:59] ⏩ Team Ukraine (#30) không thay đổi, bỏ qua.
+[2025-03-30 18:43:00] ⏩ Team Albania (#1165) không thay đổi, bỏ qua.
+[2025-03-30 18:43:01] ⏩ Team Georgia (#1174) không thay đổi, bỏ qua.
+[2025-03-30 18:43:02] ⏩ Team Serbia (#1550) không thay đổi, bỏ qua.
+[2025-03-30 18:43:02] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0337_f_l.png.webp
+[2025-03-30 18:43:03] ✅ Đã insert competition English 2nd Division (337) vào MySQL
+[2025-03-30 18:43:03] ⏩ Team Leeds W (#104) không thay đổi, bỏ qua.
+[2025-03-30 18:43:03] ⏩ Team Blackburn BW (#176) không thay đổi, bỏ qua.
+[2025-03-30 18:43:04] ⏩ Team Middlesbrough RW (#205) không thay đổi, bỏ qua.
+[2025-03-30 18:43:05] ⏩ Team Burnley RB (#378) không thay đổi, bỏ qua.
+[2025-03-30 18:43:06] ⏩ Team Cardiff B (#379) không thay đổi, bỏ qua.
+[2025-03-30 18:43:07] ⏩ Team Derby WB (#383) không thay đổi, bỏ qua.
+[2025-03-30 18:43:08] ⏩ Team Millwall BW (#387) không thay đổi, bỏ qua.
+[2025-03-30 18:43:08] ⏩ Team Norwich YG (#388) không thay đổi, bỏ qua.
+[2025-03-30 18:43:09] ⏩ Team Sheffield BW (#394) không thay đổi, bỏ qua.
+[2025-03-30 18:43:10] ⏩ Team Stoke RW (#395) không thay đổi, bỏ qua.
+[2025-03-30 18:43:11] ✅ Đã insert team Sunderland RWB (#396) vào MySQL
+[2025-03-30 18:43:13] ✅ Đã insert team Watford BY (#398) vào MySQL
+[2025-03-30 18:43:14] ✅ Đã insert team West Bromwich WB (#399) vào MySQL
+[2025-03-30 18:43:16] ✅ Đã insert team Queen'S Park BW (#1327) vào MySQL
+[2025-03-30 18:43:18] ✅ Đã insert team Hull OB (#1589) vào MySQL
+[2025-03-30 18:43:20] ✅ Đã insert team Bristol R (#1760) vào MySQL
+[2025-03-30 18:43:21] ✅ Đã insert team Swansea W (#1909) vào MySQL
+[2025-03-30 18:43:24] ✅ Đã insert team Coventry B (#4183) vào MySQL
+[2025-03-30 18:43:26] ✅ Đã insert team Preston WB (#4192) vào MySQL
+[2025-03-30 18:43:27] ✅ Đã insert team Sheffield RB (#4194) vào MySQL
+[2025-03-30 18:43:30] ✅ Đã insert team Luton WO (#4363) vào MySQL
+[2025-03-30 18:43:31] ✅ Đã insert team Plymouth G (#4364) vào MySQL
+[2025-03-30 18:43:32] ✅ Đã insert team Portsmouth B (#4365) vào MySQL
+[2025-03-30 18:43:34] ✅ Đã insert team Oxford BY (#5086) vào MySQL
+[2025-03-30 18:43:34] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0340_f_l.png.webp
+[2025-03-30 18:43:34] ✅ Đã insert competition Spanish 2nd Division (340) vào MySQL
+[2025-03-30 18:43:35] ✅ Đã insert team La Coruña AB (#111) vào MySQL
+[2025-03-30 18:43:36] ✅ Đã insert team Málaga AB (#260) vào MySQL
+[2025-03-30 18:43:38] ✅ Đã insert team Santander VB (#264) vào MySQL
+[2025-03-30 18:43:39] ✅ Đã insert team Zaragoza BA (#268) vào MySQL
+[2025-03-30 18:43:40] ✅ Đã insert team Almería RB (#357) vào MySQL
+[2025-03-30 18:43:42] ✅ Đã insert team Córdoba VB (#359) vào MySQL
+[2025-03-30 18:43:44] ✅ Đã insert team Elche BV (#361) vào MySQL
+[2025-03-30 18:43:46] ✅ Đã insert team Gijón RB (#363) vào MySQL
+[2025-03-30 18:43:49] ✅ Đã insert team Levante RA (#366) vào MySQL
+[2025-03-30 18:43:50] ✅ Đã insert team Granada RB (#1765) vào MySQL
+[2025-03-30 18:43:52] ✅ Đã insert team Huesca RA (#2188) vào MySQL
+[2025-03-30 18:43:53] ✅ Đã insert team Miranda de Ebro RN (#2616) vào MySQL
+[2025-03-30 18:43:55] ✅ Đã insert team Eibar AR (#4146) vào MySQL
+[2025-03-30 18:43:56] ✅ Đã insert team Tenerife AB (#4147) vào MySQL
+[2025-03-30 18:43:58] ✅ Đã insert team Burgos NB (#4247) vào MySQL
+[2025-03-30 18:44:00] ✅ Đã insert team Ferrol VB (#4259) vào MySQL
+[2025-03-30 18:44:01] ✅ Đã insert team Oviedo A (#4260) vào MySQL
+[2025-03-30 18:44:03] ✅ Đã insert team Albacete BN (#4302) vào MySQL
+[2025-03-30 18:44:06] ✅ Đã insert team Cádiz AA (#4308) vào MySQL
+[2025-03-30 18:44:08] ✅ Đã insert team Cartagena NB (#4309) vào MySQL
+[2025-03-30 18:44:10] ✅ Đã insert team Castellón NB (#4395) vào MySQL
+[2025-03-30 18:44:11] ✅ Đã insert team Elda RA (#4988) vào MySQL
+[2025-03-30 18:44:12] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0343_f_l.png.webp
+[2025-03-30 18:44:12] ✅ Đã insert competition Ligue 2 BKT (343) vào MySQL
+[2025-03-30 18:44:13] ✅ Đã insert team AC Ajaccio (#209) vào MySQL
+[2025-03-30 18:44:14] ✅ Đã insert team SC Bastia (#210) vào MySQL
+[2025-03-30 18:44:16] ✅ Đã insert team En Avant Guingamp (#211) vào MySQL
+[2025-03-30 18:44:17] ✅ Đã insert team Stade Malherbe Caen (#405) vào MySQL
+[2025-03-30 18:44:19] ✅ Đã insert team Clermont Foot 63 (#407) vào MySQL
+[2025-03-30 18:44:20] ✅ Đã insert team Stade Lavallois MFC (#412) vào MySQL
+[2025-03-30 18:44:22] ✅ Đã insert team FC Lorient (#414) vào MySQL
+[2025-03-30 18:44:25] ✅ Đã insert team ESTAC Troyes (#420) vào MySQL
+[2025-03-30 18:44:26] ✅ Đã insert team FC Metz (#4123) vào MySQL
+[2025-03-30 18:44:28] ✅ Đã insert team Amiens SC (#4200) vào MySQL
+[2025-03-30 18:44:30] ✅ Đã insert team USL Dunkerque (#4206) vào MySQL
+[2025-03-30 18:44:32] ✅ Đã insert team Paris FC (#4211) vào MySQL
+[2025-03-30 18:44:34] ✅ Đã insert team Red Star FC (#4212) vào MySQL
+[2025-03-30 18:44:35] ✅ Đã insert team Grenoble Foot 38 (#4370) vào MySQL
+[2025-03-30 18:44:36] ✅ Đã insert team Rodez Aveyron Football (#4372) vào MySQL
+[2025-03-30 18:44:38] ✅ Đã insert team Pau FC (#5099) vào MySQL
+[2025-03-30 18:44:39] ✅ Đã insert team FC Annecy (#5685) vào MySQL
+[2025-03-30 18:44:41] ✅ Đã insert team FC Martigues (#5884) vào MySQL
+[2025-03-30 18:44:42] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0346_f_l.png.webp
+[2025-03-30 18:44:42] ✅ Đã insert competition Serie BKT (346) vào MySQL
+[2025-03-30 18:44:43] ✅ Đã insert team Brescia Calcio (#187) vào MySQL
+[2025-03-30 18:44:45] ✅ Đã insert team Modena FC (#237) vào MySQL
+[2025-03-30 18:44:46] ✅ Đã insert team Palermo FC (#238) vào MySQL
+[2025-03-30 18:44:48] ✅ Đã insert team U.C. Sampdoria (#240) vào MySQL
+[2025-03-30 18:44:50] ✅ Đã insert team SSC Bari (#319) vào MySQL
+[2025-03-30 18:44:52] ✅ Đã insert team Cesena FC (#1362) vào MySQL
+[2025-03-30 18:44:53] ✅ Đã insert team Spezia Calcio (#1600) vào MySQL
+[2025-03-30 18:44:56] ✅ Đã insert team U.S. Sassuolo (#1919) vào MySQL
+[2025-03-30 18:44:57] ✅ Đã insert team A.S. Cittadella (#1920) vào MySQL
+[2025-03-30 18:44:59] ✅ Đã insert team SS Juve Stabia (#2517) vào MySQL
+[2025-03-30 18:45:00] ✅ Đã insert team Carrarese Calcio 1908 (#4218) vào MySQL
+[2025-03-30 18:45:01] ✅ Đã insert team U.S. Cremonese (#4220) vào MySQL
+[2025-03-30 18:45:02] ✅ Đã insert team AC Reggiana 1919 (#4225) vào MySQL
+[2025-03-30 18:45:05] ✅ Đã insert team FC Südtirol (#4228) vào MySQL
+[2025-03-30 18:45:06] ✅ Đã insert team U.S. Catanzaro 1929 (#4233) vào MySQL
+[2025-03-30 18:45:07] ✅ Đã insert team Frosinone Calcio (#4234) vào MySQL
+[2025-03-30 18:45:09] ✅ Đã insert team Pisa Sporting Club (#4241) vào MySQL
+[2025-03-30 18:45:11] ✅ Đã insert team U.S. Salernitana 1919 (#4244) vào MySQL
+[2025-03-30 18:45:13] ✅ Đã insert team Mantova 1911 (#4379) vào MySQL
+[2025-03-30 18:45:14] ✅ Đã insert team Cosenza Calcio (#4928) vào MySQL
+[2025-03-30 18:45:15] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0473_f_l.png.webp
+[2025-03-30 18:45:15] ✅ Đã insert competition Swiss League (473) vào MySQL
+[2025-03-30 18:45:16] ✅ Đã insert team Zürich BW (#1228) vào MySQL
+[2025-03-30 18:45:17] ✅ Đã insert team Basel RB (#1706) vào MySQL
+[2025-03-30 18:45:18] ✅ Đã insert team Bern GS (#1950) vào MySQL
+[2025-03-30 18:45:20] ✅ Đã insert team Sion RW (#1955) vào MySQL
+[2025-03-30 18:45:22] ✅ Đã insert team Zürich WB (#1957) vào MySQL
+[2025-03-30 18:45:24] ✅ Đã insert team Servette R (#1958) vào MySQL
+[2025-03-30 18:45:25] ✅ Đã insert team Sankt Gallen GW (#4937) vào MySQL
+[2025-03-30 18:45:27] ✅ Đã insert team Luzern BW (#4962) vào MySQL
+[2025-03-30 18:45:29] ✅ Đã insert team Lausanne BW (#4964) vào MySQL
+[2025-03-30 18:45:30] ✅ Đã insert team Lugano SW (#4965) vào MySQL
+[2025-03-30 18:45:31] ✅ Đã insert team Winterthur RW (#4968) vào MySQL
+[2025-03-30 18:45:32] ✅ Đã insert team Yverdon-les-Bains GW (#5819) vào MySQL
+[2025-03-30 18:45:33] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0476_f_l.png.webp
+[2025-03-30 18:45:33] ✅ Đã insert competition Trendyol Süper Lig (476) vào MySQL
+[2025-03-30 18:45:34] ✅ Đã insert team Galatasaray SK (#130) vào MySQL
+[2025-03-30 18:45:36] ✅ Đã insert team Fenerbahçe SK (#197) vào MySQL
+[2025-03-30 18:45:37] ✅ Đã insert team Beşiktaş JK (#273) vào MySQL
+[2025-03-30 18:45:39] ✅ Đã insert team Sivasspor (#1809) vào MySQL
+[2025-03-30 18:45:41] ✅ Đã insert team Trabzonspor (#1945) vào MySQL
+[2025-03-30 18:45:43] ✅ Đã insert team Antalyaspor (#1989) vào MySQL
+[2025-03-30 18:45:44] ✅ Đã insert team RAMS Başakşehir FK (#1995) vào MySQL
+[2025-03-30 18:45:46] ✅ Đã insert team Mondihome Kayserispor (#1996) vào MySQL
+[2025-03-30 18:45:47] ✅ Đã insert team Kasımpaşa SK (#2625) vào MySQL
+[2025-03-30 18:45:48] ✅ Đã insert team Corendon Alanyaspor (#5202) vào MySQL
+[2025-03-30 18:45:49] ✅ Đã insert team Göztepe SK (#5203) vào MySQL
+[2025-03-30 18:45:51] ✅ Đã insert team Konyaspor (#5204) vào MySQL
+[2025-03-30 18:45:53] ✅ Đã insert team Adana Demirspor (#5348) vào MySQL
+[2025-03-30 18:45:54] ✅ Đã insert team Çaykur Rizespor (#5354) vào MySQL
+[2025-03-30 18:45:55] ✅ Đã insert team Gaziantep FK (#5356) vào MySQL
+[2025-03-30 18:45:57] ✅ Đã insert team Samsunspor (#5361) vào MySQL
+[2025-03-30 18:45:58] ✅ Đã insert team Atakaş Hatayspor (#5452) vào MySQL
+[2025-03-30 18:46:00] ✅ Đã insert team Eyüpspor (#5820) vào MySQL
+[2025-03-30 18:46:02] ✅ Đã insert team Sipay Bodrum FK (#5898) vào MySQL
+[2025-03-30 18:46:03] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0518_f_l.png.webp
+[2025-03-30 18:46:03] ✅ Đã insert competition Scottish Premiership (518) vào MySQL
+[2025-03-30 18:46:03] ✅ Đã insert team Celtic FC (#131) vào MySQL
+[2025-03-30 18:46:04] ✅ Đã insert team Rangers FC (#132) vào MySQL
+[2025-03-30 18:46:05] ✅ Đã insert team Aberdeen FC (#1219) vào MySQL
+[2025-03-30 18:46:07] ✅ Đã insert team Dundee United FC (#1220) vào MySQL
+[2025-03-30 18:46:08] ✅ Đã insert team Heart of Midlothian FC (#1221) vào MySQL
+[2025-03-30 18:46:09] ✅ Đã insert team Hibernian FC (#1222) vào MySQL
+[2025-03-30 18:46:10] ✅ Đã insert team Kilmarnock FC (#1985) vào MySQL
+[2025-03-30 18:46:12] ✅ Đã insert team Motherwell FC (#1986) vào MySQL
+[2025-03-30 18:46:13] ✅ Đã insert team St. Mirren FC (#1987) vào MySQL
+[2025-03-30 18:46:16] ✅ Đã insert team St. Johnstone FC (#2365) vào MySQL
+[2025-03-30 18:46:18] ✅ Đã insert team Dundee FC (#2621) vào MySQL
+[2025-03-30 18:46:19] ✅ Đã insert team Ross County FC (#2622) vào MySQL
+[2025-03-30 18:46:20] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0549_f_l.png.webp
+[2025-03-30 18:46:20] ✅ Đã insert competition Danish League (549) vào MySQL
+[2025-03-30 18:46:21] ✅ Đã insert team København HB (#1207) vào MySQL
+[2025-03-30 18:46:22] ✅ Đã insert team Nordsjælland RG (#1208) vào MySQL
+[2025-03-30 18:46:24] ✅ Đã insert team Aalborg RH (#1818) vào MySQL
+[2025-03-30 18:46:26] ✅ Đã insert team Brøndby GB (#1832) vào MySQL
+[2025-03-30 18:46:27] ✅ Đã insert team Aarhus HB (#2067) vào MySQL
+[2025-03-30 18:46:29] ✅ Đã insert team Midtjylland SR (#2069) vào MySQL
+[2025-03-30 18:46:31] ✅ Đã insert team Randers B (#2071) vào MySQL
+[2025-03-30 18:46:32] ✅ Đã insert team Lyngby HB (#5224) vào MySQL
+[2025-03-30 18:46:33] ✅ Đã insert team Silkeborg RH (#5225) vào MySQL
+[2025-03-30 18:46:35] ✅ Đã insert team Haderslev HB (#5226) vào MySQL
+[2025-03-30 18:46:36] ✅ Đã insert team Vejle RH (#5235) vào MySQL
+[2025-03-30 18:46:38] ✅ Đã insert team Viborg GH (#5237) vào MySQL
+[2025-03-30 18:46:39] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0566_f_l.png.webp
+[2025-03-30 18:46:39] ✅ Đã insert competition Belgian League (566) vào MySQL
+[2025-03-30 18:46:40] ✅ Đã insert team Anderlecht PW (#174) vào MySQL
+[2025-03-30 18:46:41] ✅ Đã insert team Brugge BZ (#269) vào MySQL
+[2025-03-30 18:46:43] ✅ Đã insert team Genk BW (#1195) vào MySQL
+[2025-03-30 18:46:44] ✅ Đã insert team Gent BW (#1196) vào MySQL
+[2025-03-30 18:46:46] ✅ Đã insert team Liège RW (#1197) vào MySQL
+[2025-03-30 18:46:47] ✅ Đã insert team Mechelen GR (#1200) vào MySQL
+[2025-03-30 18:46:49] ✅ Đã insert team Brugge GZ (#2009) vào MySQL
+[2025-03-30 18:46:50] ✅ Đã insert team Charleroi ZW (#2010) vào MySQL
+[2025-03-30 18:46:51] ✅ Đã insert team Kortrijk RW (#2013) vào MySQL
+[2025-03-30 18:46:53] ✅ Đã insert team Antwerp RW (#5191) vào MySQL
+[2025-03-30 18:46:54] ✅ Đã insert team Sint-Truiden GB (#5194) vào MySQL
+[2025-03-30 18:46:55] ✅ Đã insert team Wilrijk PW (#5216) vào MySQL
+[2025-03-30 18:46:57] ✅ Đã insert team Leuven WZRG (#5217) vào MySQL
+[2025-03-30 18:46:58] ✅ Đã insert team Saint-Gilles BG (#5220) vào MySQL
+[2025-03-30 18:47:00] ✅ Đã insert team Westerlo GB (#5221) vào MySQL
+[2025-03-30 18:47:02] ✅ Đã insert team Denderleeuw BZR (#5878) vào MySQL
+[2025-03-30 18:47:03] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0101_f_l.png.webp
+[2025-03-30 18:47:03] ✅ Đã insert competition AFC Champions League Elite™ (101) vào MySQL
+[2025-03-30 18:47:04] ✅ Đã insert team Yokohama F. Marinos (#16536) vào MySQL
+[2025-03-30 18:47:06] ✅ Đã insert team Vissel Kobe (#16542) vào MySQL
+[2025-03-30 18:47:07] ✅ Đã insert team Kawasaki Frontale (#16547) vào MySQL
+[2025-03-30 18:47:09] ✅ Đã insert team FC Pohang Steelers (#16665) vào MySQL
+[2025-03-30 18:47:10] ✅ Đã insert team Al Ain FC (#17719) vào MySQL
+[2025-03-30 18:47:11] ✅ Đã insert team Al Rayyan SC (#17730) vào MySQL
+[2025-03-30 18:47:13] ✅ Đã insert team Al-Ahli Saudi FC (#17733) vào MySQL
+[2025-03-30 18:47:14] ✅ Đã insert team Pakhtakor FC (#17743) vào MySQL
+[2025-03-30 18:47:15] ✅ Đã insert team Al Gharafa SC (#17872) vào MySQL
+[2025-03-30 18:47:16] ✅ Đã insert team Al Hilal SFC (#17873) vào MySQL
+[2025-03-30 18:47:17] ✅ Đã insert team Buriram United F.C. (#17877) vào MySQL
+[2025-03-30 18:47:19] ✅ Đã insert team Esteghlal FC (#17960) vào MySQL
+[2025-03-30 18:47:20] ✅ Đã insert team Central Coast Mariners (#18283) vào MySQL
+[2025-03-30 18:47:21] ✅ Đã insert team Al Nassr FC (#18961) vào MySQL
+[2025-03-30 18:47:22] ✅ Đã insert team Shanghai Port FC (#20478) vào MySQL
+[2025-03-30 18:47:24] ✅ Đã insert team Shandong Taishan FC (#20552) vào MySQL
+[2025-03-30 18:47:25] ✅ Đã insert team Al Shorta SC (#20554) vào MySQL
+[2025-03-30 18:47:28] ✅ Đã insert team Al Sadd SC (#20557) vào MySQL
+[2025-03-30 18:47:29] ✅ Đã insert team Ulsan Hyundai FC (#20558) vào MySQL
+[2025-03-30 18:47:31] ✅ Đã insert team Johor Darul Ta'zim FC (#21332) vào MySQL
+[2025-03-30 18:47:32] ✅ Đã insert team Persepolis FC (#21335) vào MySQL
+[2025-03-30 18:47:34] ✅ Đã insert team Shanghai Shenhua FC (#21557) vào MySQL
+[2025-03-30 18:47:36] ✅ Đã insert team Al Wasl FC (#21772) vào MySQL
+[2025-03-30 18:47:37] ✅ Đã insert team Gwangju FC (#22298) vào MySQL
+[2025-03-30 18:47:37] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0192_f_l.png.webp
+[2025-03-30 18:47:38] ✅ Đã insert competition AFC Asian Qualifiers™ (192) vào MySQL
+[2025-03-30 18:47:38] ✅ Đã insert team Japan (#49204) vào MySQL
+[2025-03-30 18:47:39] ✅ Đã insert team Korea Republic (#49205) vào MySQL
+[2025-03-30 18:47:40] ✅ Đã insert team China PR (#49206) vào MySQL
+[2025-03-30 18:47:42] ✅ Đã insert team IR Iran (#49207) vào MySQL
+[2025-03-30 18:47:43] ✅ Đã insert team Saudi Arabia (#49208) vào MySQL
+[2025-03-30 18:47:45] ✅ Đã insert team Australia (#49209) vào MySQL
+[2025-03-30 18:47:46] ✅ Đã insert team Bahrain (#50154) vào MySQL
+[2025-03-30 18:47:47] ✅ Đã insert team Iraq (#50162) vào MySQL
+[2025-03-30 18:47:49] ✅ Đã insert team Jordan (#50163) vào MySQL
+[2025-03-30 18:47:50] ✅ Đã insert team Korea DPR (#50164) vào MySQL
+[2025-03-30 18:47:52] ✅ Đã insert team Kuwait (#50165) vào MySQL
+[2025-03-30 18:47:53] ✅ Đã insert team Oman (#50174) vào MySQL
+[2025-03-30 18:47:54] ✅ Đã insert team Qatar (#50178) vào MySQL
+[2025-03-30 18:47:55] ✅ Đã insert team United Arab Emirates (#50184) vào MySQL
+[2025-03-30 18:47:57] ✅ Đã insert team Uzbekistan (#50336) vào MySQL
+[2025-03-30 18:47:58] ✅ Đã insert team Indonesia (#54902) vào MySQL
+[2025-03-30 18:47:59] ✅ Đã insert team Kyrgyz Republic (#54903) vào MySQL
+[2025-03-30 18:48:01] ✅ Đã insert team Palestine (#54909) vào MySQL
+[2025-03-30 18:48:01] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0213_f_l.png.webp
+[2025-03-30 18:48:02] ✅ Đã insert competition Asia-Oceanian Cup (213) vào MySQL
+[2025-03-30 18:48:02] ✅ Đã insert team Australia (#65593) vào MySQL
+[2025-03-30 18:48:03] ✅ Đã insert team Bahrain (#66538) vào MySQL
+[2025-03-30 18:48:05] ✅ Đã insert team China PR (#65590) vào MySQL
+[2025-03-30 18:48:06] ✅ Đã insert team Hong Kong, China (#71284) vào MySQL
+[2025-03-30 18:48:08] ✅ Đã insert team India (#71285) vào MySQL
+[2025-03-30 18:48:09] ✅ Đã insert team Indonesia (#71286) vào MySQL
+[2025-03-30 18:48:10] ✅ Đã insert team IR Iran (#65591) vào MySQL
+[2025-03-30 18:48:12] ✅ Đã insert team Iraq (#66546) vào MySQL
+[2025-03-30 18:48:13] ✅ Đã insert team Japan (#65588) vào MySQL
+[2025-03-30 18:48:14] ✅ Đã insert team Jordan (#66547) vào MySQL
+[2025-03-30 18:48:17] ✅ Đã insert team Kyrgyz Republic (#71287) vào MySQL
+[2025-03-30 18:48:18] ✅ Đã insert team Lebanon (#66551) vào MySQL
+[2025-03-30 18:48:19] ✅ Đã insert team Malaysia (#71288) vào MySQL
+[2025-03-30 18:48:21] ✅ Đã insert team Oman (#66558) vào MySQL
+[2025-03-30 18:48:22] ✅ Đã insert team Palestine (#71293) vào MySQL
+[2025-03-30 18:48:23] ✅ Đã insert team Qatar (#66562) vào MySQL
+[2025-03-30 18:48:24] ✅ Đã insert team Korea Republic (#65589) vào MySQL
+[2025-03-30 18:48:25] ✅ Đã insert team Saudi Arabia (#65592) vào MySQL
+[2025-03-30 18:48:27] ✅ Đã insert team Syria (#66565) vào MySQL
+[2025-03-30 18:48:28] ✅ Đã insert team Tajikistan (#71297) vào MySQL
+[2025-03-30 18:48:30] ✅ Đã insert team Thailand (#66567) vào MySQL
+[2025-03-30 18:48:31] ✅ Đã insert team United Arab Emirates (#66568) vào MySQL
+[2025-03-30 18:48:33] ✅ Đã insert team Uzbekistan (#66720) vào MySQL
+[2025-03-30 18:48:34] ✅ Đã insert team Vietnam (#71299) vào MySQL
+[2025-03-30 18:48:35] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0266_f_l.png.webp
+[2025-03-30 18:48:35] ✅ Đã insert competition MEIJI YASUDA J1 LEAGUE (266) vào MySQL
+[2025-03-30 18:48:36] ✅ Đã insert team Kashima Antlers (#146) vào MySQL
+[2025-03-30 18:48:38] ✅ Đã insert team Urawa Reds (#147) vào MySQL
+[2025-03-30 18:48:39] ✅ Đã insert team Kashiwa Reysol (#149) vào MySQL
+[2025-03-30 18:48:41] ✅ Đã insert team FC Tokyo (#150) vào MySQL
+[2025-03-30 18:48:43] ✅ Đã insert team Tokyo Verdy (#151) vào MySQL
+[2025-03-30 18:48:45] ✅ Đã insert team FC Machida Zelvia (#2372) vào MySQL
+[2025-03-30 18:48:46] ✅ Đã insert team Kawasaki Frontale (#163) vào MySQL
+[2025-03-30 18:48:48] ✅ Đã insert team Yokohama F. Marinos (#152) vào MySQL
+[2025-03-30 18:48:49] ✅ Đã insert team Yokohama FC (#164) vào MySQL
+[2025-03-30 18:48:51] ✅ Đã insert team Shonan Bellmare (#165) vào MySQL
+[2025-03-30 18:48:52] ✅ Đã insert team Albirex Niigata (#167) vào MySQL
+[2025-03-30 18:48:53] ✅ Đã insert team Shimizu S-Pulse (#153) vào MySQL
+[2025-03-30 18:48:54] ✅ Đã insert team Nagoya Grampus (#155) vào MySQL
+[2025-03-30 18:48:56] ✅ Đã insert team Kyoto Sanga F.C. (#156) vào MySQL
+[2025-03-30 18:48:58] ✅ Đã insert team Gamba Osaka (#157) vào MySQL
+[2025-03-30 18:49:00] ✅ Đã insert team Cerezo Osaka (#168) vào MySQL
+[2025-03-30 18:49:01] ✅ Đã insert team Vissel Kobe (#158) vào MySQL
+[2025-03-30 18:49:03] ✅ Đã insert team Fagiano Okayama (#1881) vào MySQL
+[2025-03-30 18:49:04] ✅ Đã insert team Sanfrecce Hiroshima (#159) vào MySQL
+[2025-03-30 18:49:05] ✅ Đã insert team Avispa Fukuoka (#169) vào MySQL
+[2025-03-30 18:49:06] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0269_f_l.png.webp
+[2025-03-30 18:49:06] ✅ Đã insert competition MEIJI YASUDA J2 LEAGUE (269) vào MySQL
+[2025-03-30 18:49:08] ✅ Đã insert team Consadole Sapporo (#144) vào MySQL
+[2025-03-30 18:49:10] ✅ Đã insert team Vegalta Sendai (#145) vào MySQL
+[2025-03-30 18:49:11] ✅ Đã insert team Blaublitz Akita (#4101) vào MySQL
+[2025-03-30 18:49:13] ✅ Đã insert team Montedio Yamagata (#160) vào MySQL
+[2025-03-30 18:49:14] ✅ Đã insert team Iwaki FC (#5842) vào MySQL
+[2025-03-30 18:49:16] ✅ Đã insert team Mito Hollyhock (#161) vào MySQL
+[2025-03-30 18:49:17] ✅ Đã insert team RB Omiya Ardija (#162) vào MySQL
+[2025-03-30 18:49:19] ✅ Đã insert team JEF United Chiba (#148) vào MySQL
+[2025-03-30 18:49:21] ✅ Đã insert team Ventforet Kofu (#166) vào MySQL
+[2025-03-30 18:49:23] ✅ Đã insert team Kataller Toyama (#1880) vào MySQL
+[2025-03-30 18:49:25] ✅ Đã insert team Fujieda MYFC (#4105) vào MySQL
+[2025-03-30 18:49:26] ✅ Đã insert team Jubilo Iwata (#154) vào MySQL
+[2025-03-30 18:49:28] ✅ Đã insert team Renofa Yamaguchi FC (#5381) vào MySQL
+[2025-03-30 18:49:30] ✅ Đã insert team Tokushima Vortis (#1270) vào MySQL
+[2025-03-30 18:49:32] ✅ Đã insert team Ehime FC (#1274) vào MySQL
+[2025-03-30 18:49:34] ✅ Đã insert team FC Imabari (#5670) vào MySQL
+[2025-03-30 18:49:35] ✅ Đã insert team Sagan Tosu (#170) vào MySQL
+[2025-03-30 18:49:36] ✅ Đã insert team V-Varen Nagasaki (#2373) vào MySQL
+[2025-03-30 18:49:37] ✅ Đã insert team Roasso Kumamoto (#1735) vào MySQL
+[2025-03-30 18:49:39] ✅ Đã insert team Oita Trinita (#171) vào MySQL
+[2025-03-30 18:49:39] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0585_f_l.png.webp
+[2025-03-30 18:49:39] ✅ Đã insert competition Hilux Revo Thai League (585) vào MySQL
+[2025-03-30 18:49:40] ✅ Đã insert team Buriram United F.C. (#1493) vào MySQL
+[2025-03-30 18:49:41] ✅ Đã insert team Muangthong United FC (#2643) vào MySQL
+[2025-03-30 18:49:43] ✅ Đã insert team BG Pathum United FC (#4941) vào MySQL
+[2025-03-30 18:49:44] ✅ Đã insert team True Bangkok United FC (#5394) vào MySQL
+[2025-03-30 18:49:47] ✅ Đã insert team Singha Chiangrai United (#5395) vào MySQL
+[2025-03-30 18:49:50] ✅ Đã insert team Nakhonratchasima FC (#5397) vào MySQL
+[2025-03-30 18:49:51] ✅ Đã insert team Port FC (#5401) vào MySQL
+[2025-03-30 18:49:53] ✅ Đã insert team PT Prachuap FC (#5402) vào MySQL
+[2025-03-30 18:49:55] ✅ Đã insert team Ratchaburi FC (#5403) vào MySQL
+[2025-03-30 18:49:56] ✅ Đã insert team Sukhothai FC (#5404) vào MySQL
+[2025-03-30 18:49:57] ✅ Đã insert team Nongbua Pitchaya FC (#5414) vào MySQL
+[2025-03-30 18:50:00] ✅ Đã insert team Rayong FC (#5416) vào MySQL
+[2025-03-30 18:50:02] ✅ Đã insert team Khonkaen United FC (#5671) vào MySQL
+[2025-03-30 18:50:03] ✅ Đã insert team Nakhonpathom United FC (#5672) vào MySQL
+[2025-03-30 18:50:04] ✅ Đã insert team Uthai Thani FC (#5675) vào MySQL
+[2025-03-30 18:50:06] ✅ Đã insert team Lamphun Warriors FC (#5829) vào MySQL
+[2025-03-30 18:50:06] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0694_f_l.png.webp
+[2025-03-30 18:50:06] ✅ Đã insert competition Korean League (694) vào MySQL
+[2025-03-30 18:50:07] ✅ Đã insert team Jeonju G (#279) vào MySQL
+[2025-03-30 18:50:09] ✅ Đã insert team Pohang RB (#281) vào MySQL
+[2025-03-30 18:50:10] ✅ Đã insert team Seoul BR (#282) vào MySQL
+[2025-03-30 18:50:12] ✅ Đã insert team Ulsan B (#4174) vào MySQL
+[2025-03-30 18:50:14] ✅ Đã insert team Jeju O (#5135) vào MySQL
+[2025-03-30 18:50:16] ✅ Đã insert team Daegu B (#5596) vào MySQL
+[2025-03-30 18:50:18] ✅ Đã insert team Daejeon RGW (#5912) vào MySQL
+[2025-03-30 18:50:20] ✅ Đã insert team Gangwon O (#5913) vào MySQL
+[2025-03-30 18:50:21] ✅ Đã insert team Gwangju Y (#5914) vào MySQL
+[2025-03-30 18:50:22] ✅ Đã insert team Suwon RB (#5916) vào MySQL
+[2025-03-30 18:50:23] ✅ Đã insert team Anyang P (#5923) vào MySQL
+[2025-03-30 18:50:25] ✅ Đã insert team Gimcheon RW (#5924) vào MySQL
+[2025-03-30 18:50:26] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0703_f_l.png.webp
+[2025-03-30 18:50:26] ✅ Đã insert competition AFC Champions League Two™ (703) vào MySQL
+[2025-03-30 18:50:26] ✅ Đã insert team Sanfrecce Hiroshima (#16543) vào MySQL
+[2025-03-30 18:50:28] ✅ Đã insert team Jeonbuk Hyundai Motors (#16663) vào MySQL
+[2025-03-30 18:50:29] ✅ Đã insert team Sepahan SC (#17725) vào MySQL
+[2025-03-30 18:50:31] ✅ Đã insert team Sydney FC (#17962) vào MySQL
+[2025-03-30 18:50:32] ✅ Đã insert team Al Taawoun FC (#18964) vào MySQL
+[2025-03-30 18:50:33] ✅ Đã insert team Tractor SC (#18986) vào MySQL
+[2025-03-30 18:50:35] ✅ Đã insert team Muangthong United FC (#19027) vào MySQL
+[2025-03-30 18:50:37] ✅ Đã insert team Tampines Rovers FC (#20499) vào MySQL
+[2025-03-30 18:50:38] ✅ Đã insert team Al Kuwait SC (#20555) vào MySQL
+[2025-03-30 18:50:41] ✅ Đã insert team Shabab Al Ahli Dubai FC (#20560) vào MySQL
+[2025-03-30 18:50:43] ✅ Đã insert team FC Nasaf (#20562) vào MySQL
+[2025-03-30 18:50:44] ✅ Đã insert team Persib Bandung (#21329) vào MySQL
+[2025-03-30 18:50:45] ✅ Đã insert team Al Wehdat SC (#21338) vào MySQL
+[2025-03-30 18:50:46] ✅ Đã insert team Eastern FC (#21517) vào MySQL
+[2025-03-30 18:50:48] ✅ Đã insert team Zhejiang FC (#21564) vào MySQL
+[2025-03-30 18:50:49] ✅ Đã insert team Air Force Club (#21771) vào MySQL
+[2025-03-30 18:50:52] ✅ Đã insert team True Bangkok United FC (#21778) vào MySQL
+[2025-03-30 18:50:53] ✅ Đã insert team Port FC (#21785) vào MySQL
+[2025-03-30 18:50:55] ✅ Đã insert team Lion City Sailors FC (#21982) vào MySQL
+[2025-03-30 18:50:57] ✅ Đã insert team FC Istiklol (#21983) vào MySQL
+[2025-03-30 18:50:59] ✅ Đã insert team Sharjah FC (#22060) vào MySQL
+[2025-03-30 18:51:00] ✅ Đã insert team Kaya FC-Iloilo (#22159) vào MySQL
+[2025-03-30 18:51:02] ✅ Đã insert team Lee Man FC (#22312) vào MySQL
+[2025-03-30 18:51:03] ✅ Đã insert team Dynamic Herb Cebu FC (#22321) vào MySQL
+[2025-03-30 18:51:05] ✅ Đã insert team Al Wakrah SC (#22323) vào MySQL
+[2025-03-30 18:51:06] ✅ Đã insert team Al Khaldiya SC (#22420) vào MySQL
+[2025-03-30 18:51:07] ✅ Đã insert team Mohun Bagan Super Giant (#22422) vào MySQL
+[2025-03-30 18:51:08] ✅ Đã insert team Al-Hussein SC (#22424) vào MySQL
+[2025-03-30 18:51:10] ✅ Đã insert team Selangor FC (#22425) vào MySQL
+[2025-03-30 18:51:11] ✅ Đã insert team Ravshan Kulob (#22426) vào MySQL
+[2025-03-30 18:51:13] ✅ Đã insert team Altyn Asyr FK (#22427) vào MySQL
+[2025-03-30 18:51:14] ✅ Đã insert team Thep Xanh Nam Dinh FC (#22428) vào MySQL
+[2025-03-30 18:51:14] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0149_f_l.png.webp
+[2025-03-30 18:51:14] ✅ Đã insert competition Brazilian League (149) vào MySQL
+[2025-03-30 18:51:15] ✅ Đã insert team CR Vasco da Gama (#136) vào MySQL
+[2025-03-30 18:51:17] ✅ Đã insert team SE Palmeiras (#137) vào MySQL
+[2025-03-30 18:51:19] ✅ Đã insert team Cruzeiro EC (#274) vào MySQL
+[2025-03-30 18:51:20] ✅ Đã insert team Atlético Mineiro (#1245) vào MySQL
+[2025-03-30 18:51:22] ✅ Đã insert team Botafogo FR (#1246) vào MySQL
+[2025-03-30 18:51:24] ✅ Đã insert team SC Corinthians Paulista (#1247) vào MySQL
+[2025-03-30 18:51:25] ✅ Đã insert team CR Flamengo (#1248) vào MySQL
+[2025-03-30 18:51:26] ✅ Đã insert team Fluminense FC (#1249) vào MySQL
+[2025-03-30 18:51:27] ✅ Đã insert team Grêmio FBPA (#1250) vào MySQL
+[2025-03-30 18:51:29] ✅ Đã insert team SC Internacional (#1252) vào MySQL
+[2025-03-30 18:51:31] ✅ Đã insert team São Paulo F.C. (#1255) vào MySQL
+[2025-03-30 18:51:33] ✅ Đã insert team Athletico Paranaense (#1930) vào MySQL
+[2025-03-30 18:51:34] ✅ Đã insert team EC Vitória (#1937) vào MySQL
+[2025-03-30 18:51:36] ✅ Đã insert team Atlético Goianiense (#2451) vào MySQL
+[2025-03-30 18:51:37] ✅ Đã insert team EC Bahia (#2453) vào MySQL
+[2025-03-30 18:51:38] ✅ Đã insert team Red Bull Bragantino (#2459) vào MySQL
+[2025-03-30 18:51:39] ✅ Đã insert team Criciuma E.C. (#2460) vào MySQL
+[2025-03-30 18:51:41] ✅ Đã insert team EC Juventude (#5137) vào MySQL
+[2025-03-30 18:51:42] ✅ Đã insert team Cuiabá EC (#5142) vào MySQL
+[2025-03-30 18:51:43] ✅ Đã insert team Fortaleza EC (#5143) vào MySQL
+[2025-03-30 18:51:44] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0152_f_l.png.webp
+[2025-03-30 18:51:44] ✅ Đã insert competition Argentine League (152) vào MySQL
+[2025-03-30 18:51:44] ✅ Đã insert team CA River Plate (#138) vào MySQL
+[2025-03-30 18:51:45] ✅ Đã insert team CA Boca Juniors (#139) vào MySQL
+[2025-03-30 18:51:47] ✅ Đã insert team La Paternal RB (#1236) vào MySQL
+[2025-03-30 18:51:48] ✅ Đã insert team Avellaneda AB (#1237) vào MySQL
+[2025-03-30 18:51:49] ✅ Đã insert team Buenos Aires RB (#1238) vào MySQL
+[2025-03-30 18:51:51] ✅ Đã insert team La Plata AB (#1239) vào MySQL
+[2025-03-30 18:51:52] ✅ Đã insert team Avellaneda R (#1240) vào MySQL
+[2025-03-30 18:51:53] ✅ Đã insert team Rosario RN (#1241) vào MySQL
+[2025-03-30 18:51:55] ✅ Đã insert team Rosario AA (#1242) vào MySQL
+[2025-03-30 18:51:57] ✅ Đã insert team Almagro AR (#1243) vào MySQL
+[2025-03-30 18:51:58] ✅ Đã insert team Liniers AB (#1244) vào MySQL
+[2025-03-30 18:52:00] ✅ Đã insert team Parque Patricios R (#1922) vào MySQL
+[2025-03-30 18:52:02] ✅ Đã insert team Godoy Cruz AB (#1924) vào MySQL
+[2025-03-30 18:52:03] ✅ Đã insert team San Juan VN (#1925) vào MySQL
+[2025-03-30 18:52:05] ✅ Đã insert team Victoria AR (#1926) vào MySQL
+[2025-03-30 18:52:07] ✅ Đã insert team Banfield VB (#1927) vào MySQL
+[2025-03-30 18:52:08] ✅ Đã insert team Lanús M (#1929) vào MySQL
+[2025-03-30 18:52:10] ✅ Đã insert team Alberdi A (#2536) vào MySQL
+[2025-03-30 18:52:11] ✅ Đã insert team Santa Fe RB (#2538) vào MySQL
+[2025-03-30 18:52:13] ✅ Đã insert team Mar del Plata VA (#2717) vào MySQL
+[2025-03-30 18:52:14] ✅ Đã insert team Tucumán AB (#2719) vào MySQL
+[2025-03-30 18:52:15] ✅ Đã insert team Florencio Varela AV (#2722) vào MySQL
+[2025-03-30 18:52:17] ✅ Đã insert team Rivadavia A (#2726) vào MySQL
+[2025-03-30 18:52:18] ✅ Đã insert team Alta Córdoba RB (#2727) vào MySQL
+[2025-03-30 18:52:20] ✅ Đã insert team Junín V (#2730) vào MySQL
+[2025-03-30 18:52:22] ✅ Đã insert team Santiago del Estero BN (#4995) vào MySQL
+[2025-03-30 18:52:23] ✅ Đã insert team Córdoba AB (#5046) vào MySQL
+[2025-03-30 18:52:24] ✅ Đã insert team Nueva Pompeya NB (#5366) vào MySQL
+[2025-03-30 18:52:26] ✅ Đã insert team Vicente López M (#5454) vào MySQL
+[2025-03-30 18:52:28] ✅ Đã insert team Barracas RB (#5657) vào MySQL
+[2025-03-30 18:52:28] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0210_f_l.png.webp
+[2025-03-30 18:52:29] ✅ Đã insert competition American Cup (210) vào MySQL
+[2025-03-30 18:52:29] ✅ Đã insert team United States (#39) vào MySQL
+[2025-03-30 18:52:30] ✅ Đã insert team Mexico (#40) vào MySQL
+[2025-03-30 18:52:31] ✅ Đã insert team Jamaica (#41) vào MySQL
+[2025-03-30 18:52:33] ✅ Đã insert team Costa Rica (#42) vào MySQL
+[2025-03-30 18:52:34] ✅ Đã insert team Colombia (#44) vào MySQL
+[2025-03-30 18:52:35] ✅ Đã insert team Brazil (#45) vào MySQL
+[2025-03-30 18:52:37] ✅ Đã insert team Peru (#46) vào MySQL
+[2025-03-30 18:52:38] ✅ Đã insert team Chile (#47) vào MySQL
+[2025-03-30 18:52:39] ✅ Đã insert team Paraguay (#48) vào MySQL
+[2025-03-30 18:52:40] ✅ Đã insert team Uruguay (#49) vào MySQL
+[2025-03-30 18:52:42] ✅ Đã insert team Argentina (#50) vào MySQL
+[2025-03-30 18:52:43] ✅ Đã insert team Ecuador (#51) vào MySQL
+[2025-03-30 18:52:44] ✅ Đã insert team Canada (#1099) vào MySQL
+[2025-03-30 18:52:46] ✅ Đã insert team Panama (#1113) vào MySQL
+[2025-03-30 18:52:47] ✅ Đã insert team Bolivia (#1128) vào MySQL
+[2025-03-30 18:52:49] ✅ Đã insert team Venezuela (#1129) vào MySQL
+[2025-03-30 18:52:49] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0287_f_l.png.webp
+[2025-03-30 18:52:49] ✅ Đã insert competition Chilean League (287) vào MySQL
+[2025-03-30 18:52:51] ✅ Đã insert team CSD Colo-Colo (#1256) vào MySQL
+[2025-03-30 18:52:52] ✅ Đã insert team Santiago BAR (#2191) vào MySQL
+[2025-03-30 18:52:54] ✅ Đã insert team Santiago VB (#2192) vào MySQL
+[2025-03-30 18:52:55] ✅ Đã insert team Viña del Mar AA (#2208) vào MySQL
+[2025-03-30 18:52:56] ✅ Đã insert team Santiago A (#2209) vào MySQL
+[2025-03-30 18:52:58] ✅ Đã insert team Santiago RA (#2360) vào MySQL
+[2025-03-30 18:53:00] ✅ Đã insert team Rancagua A (#2541) vào MySQL
+[2025-03-30 18:53:02] ✅ Đã insert team Iquique A (#2543) vào MySQL
+[2025-03-30 18:53:03] ✅ Đã insert team La Serena R (#2544) vào MySQL
+[2025-03-30 18:53:05] ✅ Đã insert team Talcahuano AN (#2545) vào MySQL
+[2025-03-30 18:53:06] ✅ Đã insert team La Calera R (#2546) vào MySQL
+[2025-03-30 18:53:08] ✅ Đã insert team Santiago RBV (#2548) vào MySQL
+[2025-03-30 18:53:10] ✅ Đã insert team El Salvador BN (#2553) vào MySQL
+[2025-03-30 18:53:12] ✅ Đã insert team Chillán R (#2699) vào MySQL
+[2025-03-30 18:53:14] ✅ Đã insert team Coquimbo AN (#2707) vào MySQL
+[2025-03-30 18:53:16] ✅ Đã insert team Limache R (#5980) vào MySQL
+[2025-03-30 18:53:17] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0576_f_l.png.webp
+[2025-03-30 18:53:17] ✅ Đã insert competition Colombian League (576) vào MySQL
+[2025-03-30 18:53:17] ✅ Đã insert team Cali R (#1257) vào MySQL
+[2025-03-30 18:53:19] ✅ Đã insert team Bogotá AB (#1258) vào MySQL
+[2025-03-30 18:53:20] ✅ Đã insert team Medellín V (#2193) vào MySQL
+[2025-03-30 18:53:21] ✅ Đã insert team Boyacá A (#2195) vào MySQL
+[2025-03-30 18:53:22] ✅ Đã insert team Medellín RA (#2210) vào MySQL
+[2025-03-30 18:53:24] ✅ Đã insert team Manizales B (#2284) vào MySQL
+[2025-03-30 18:53:25] ✅ Đã insert team Barranquilla RB (#2285) vào MySQL
+[2025-03-30 18:53:26] ✅ Đã insert team Tolima RA (#2361) vào MySQL
+[2025-03-30 18:53:27] ✅ Đã insert team Cali VB (#2650) vào MySQL
+[2025-03-30 18:53:30] ✅ Đã insert team Pasto RAA (#2651) vào MySQL
+[2025-03-30 18:53:31] ✅ Đã insert team Envigado N (#2652) vào MySQL
+[2025-03-30 18:53:32] ✅ Đã insert team Rionegro RA (#2653) vào MySQL
+[2025-03-30 18:53:33] ✅ Đã insert team Bogotá VB (#2654) vào MySQL
+[2025-03-30 18:53:36] ✅ Đã insert team Santa Fe de Bogotá R (#2657) vào MySQL
+[2025-03-30 18:53:37] ✅ Đã insert team Barrancabermeja NA (#5207) vào MySQL
+[2025-03-30 18:53:39] ✅ Đã insert team Bucaramanga AV (#5208) vào MySQL
+[2025-03-30 18:53:40] ✅ Đã insert team Pereira AR (#5370) vào MySQL
+[2025-03-30 18:53:41] ✅ Đã insert team La Fortaleza RA (#5371) vào MySQL
+[2025-03-30 18:53:43] ✅ Đã insert team Villavicencio BN (#5373) vào MySQL
+[2025-03-30 18:53:44] ✅ Đã insert team Magdalena RA (#5376) vào MySQL
+[2025-03-30 18:53:45] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0588_f_l.png.webp
+[2025-03-30 18:53:45] ✅ Đã insert competition Brazilian 2nd Division (588) vào MySQL
+[2025-03-30 18:53:46] ✅ Đã insert team Guarani VB (#1251) vào MySQL
+[2025-03-30 18:53:49] ✅ Đã insert team Santos FC (#1254) vào MySQL
+[2025-03-30 18:53:50] ✅ Đã insert team Curitiba BV (#1931) vào MySQL
+[2025-03-30 18:53:52] ✅ Đã insert team Goiás V (#1933) vào MySQL
+[2025-03-30 18:53:53] ✅ Đã insert team Recife PV (#1936) vào MySQL
+[2025-03-30 18:53:55] ✅ Đã insert team Minas Gerais VP (#2450) vào MySQL
+[2025-03-30 18:53:56] ✅ Đã insert team Florianópolis AB (#2452) vào MySQL
+[2025-03-30 18:53:57] ✅ Đã insert team Ceará PB (#2454) vào MySQL
+[2025-03-30 18:53:59] ✅ Đã insert team Ponte Preta BP (#2465) vào MySQL
+[2025-03-30 18:54:00] ✅ Đã insert team Vila Nova VB (#2468) vào MySQL
+[2025-03-30 18:54:02] ✅ Đã insert team Maceió VB (#2506) vào MySQL
+[2025-03-30 18:54:04] ✅ Đã insert team Chapecó VB (#4108) vào MySQL
+[2025-03-30 18:54:05] ✅ Đã insert team Belém AB (#4959) vào MySQL
+[2025-03-30 18:54:06] ✅ Đã insert team Ribeirão Preto BVP (#5139) vào MySQL
+[2025-03-30 18:54:07] ✅ Đã insert team Ponta Grossa PB (#5433) vào MySQL
+[2025-03-30 18:54:08] ✅ Đã insert team Brusque VAVP (#5660) vào MySQL
+[2025-03-30 18:54:10] ✅ Đã insert team Itu VP (#5661) vào MySQL
+[2025-03-30 18:54:12] ✅ Đã insert team Mirassol AV (#5767) vào MySQL
+[2025-03-30 18:54:14] ✅ Đã insert team Novo Horizonte AP (#5768) vào MySQL
+[2025-03-30 18:54:15] ✅ Đã insert team Amazonas AP (#5909) vào MySQL
+[2025-03-30 18:54:16] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0465_f_l.png.webp
+[2025-03-30 18:54:16] ✅ Đã insert competition Mexican League (465) vào MySQL
+[2025-03-30 18:54:16] ✅ Đã insert team Club América (#1264) vào MySQL
+[2025-03-30 18:54:17] ✅ Đã insert team Ciudad de México AB (#1265) vào MySQL
+[2025-03-30 18:54:19] ✅ Đã insert team Pachuca de Soto BA (#1699) vào MySQL
+[2025-03-30 18:54:20] ✅ Đã insert team CD Guadalajara (#1700) vào MySQL
+[2025-03-30 18:54:21] ✅ Đã insert team Puebla AB (#1772) vào MySQL
+[2025-03-30 18:54:23] ✅ Đã insert team Toluca de Lerdo RB (#1773) vào MySQL
+[2025-03-30 18:54:25] ✅ Đã insert team Pumas (#1775) vào MySQL
+[2025-03-30 18:54:26] ✅ Đã insert team Jalisco RN (#1777) vào MySQL
+[2025-03-30 18:54:28] ✅ Đã insert team Monterrey AB (#1778) vào MySQL
+[2025-03-30 18:54:29] ✅ Đã insert team Comarca Lagunera VB (#1779) vào MySQL
+[2025-03-30 18:54:31] ✅ Đã insert team Tigres UANL (#1782) vào MySQL
+[2025-03-30 18:54:32] ✅ Đã insert team Tijuana RN (#1785) vào MySQL
+[2025-03-30 18:54:34] ✅ Đã insert team León de los Aldamas VB (#1789) vào MySQL
+[2025-03-30 18:54:36] ✅ Đã insert team Querétaro BA (#1792) vào MySQL
+[2025-03-30 18:54:37] ✅ Đã insert team Aguascalientes RB (#5130) vào MySQL
+[2025-03-30 18:54:38] ✅ Đã insert team Ciudad Juárez VN (#5153) vào MySQL
+[2025-03-30 18:54:40] ✅ Đã insert team San Luis Potosí RB (#5379) vào MySQL
+[2025-03-30 18:54:41] ✅ Đã insert team Mazatlán MN (#5730) vào MySQL
+[2025-03-30 18:54:42] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0603_f_l.png.webp
+[2025-03-30 18:54:42] ✅ Đã insert competition American League (603) vào MySQL
+[2025-03-30 18:54:43] ✅ Đã insert team Chicago RW (#4148) vào MySQL
+[2025-03-30 18:54:45] ✅ Đã insert team Colorado BB (#4150) vào MySQL
+[2025-03-30 18:54:46] ✅ Đã insert team Columbus BY (#4151) vào MySQL
+[2025-03-30 18:54:48] ✅ Đã insert team Washington D.C. BR (#4152) vào MySQL
+[2025-03-30 18:54:49] ✅ Đã insert team Dallas RW (#4153) vào MySQL
+[2025-03-30 18:54:50] ✅ Đã insert team Houston O (#4154) vào MySQL
+[2025-03-30 18:54:51] ✅ Đã insert team Los Angeles WBY (#4155) vào MySQL
+[2025-03-30 18:54:52] ✅ Đã insert team Montreal BWB (#4156) vào MySQL
+[2025-03-30 18:54:53] ✅ Đã insert team New England BW (#4157) vào MySQL
+[2025-03-30 18:54:54] ✅ Đã insert team New York WR (#4158) vào MySQL
+[2025-03-30 18:54:56] ✅ Đã insert team Philadelphia BY (#4159) vào MySQL
+[2025-03-30 18:54:58] ✅ Đã insert team Portland GW (#4160) vào MySQL
+[2025-03-30 18:55:00] ✅ Đã insert team Salt Lake RB (#4161) vào MySQL
+[2025-03-30 18:55:02] ✅ Đã insert team San Jose BB (#4162) vào MySQL
+[2025-03-30 18:55:03] ✅ Đã insert team Seattle GB (#4163) vào MySQL
+[2025-03-30 18:55:04] ✅ Đã insert team Kansas City BW (#4164) vào MySQL
+[2025-03-30 18:55:05] ✅ Đã insert team Toronto RW (#4165) vào MySQL
+[2025-03-30 18:55:08] ✅ Đã insert team Vancouver BW (#4166) vào MySQL
+[2025-03-30 18:55:09] ✅ Đã insert team New York City B (#5061) vào MySQL
+[2025-03-30 18:55:11] ✅ Đã insert team Orlando PW (#5062) vào MySQL
+[2025-03-30 18:55:12] ✅ Đã insert team Atlanta RB (#5736) vào MySQL
+[2025-03-30 18:55:13] ✅ Đã insert team Cincinnati OB (#5737) vào MySQL
+[2025-03-30 18:55:15] ✅ Đã insert team Miami BP (#5738) vào MySQL
+[2025-03-30 18:55:16] ✅ Đã insert team Nashville YB (#5739) vào MySQL
+[2025-03-30 18:55:17] ✅ Đã insert team Austin GB (#5740) vào MySQL
+[2025-03-30 18:55:19] ✅ Đã insert team Los Angeles BY (#5741) vào MySQL
+[2025-03-30 18:55:20] ✅ Đã insert team Minnesota GB (#5742) vào MySQL
+[2025-03-30 18:55:22] ✅ Đã insert team Charlotte BBGW (#5832) vào MySQL
+[2025-03-30 18:55:24] ✅ Đã insert team St. Louis PB (#5903) vào MySQL
+[2025-03-30 18:55:25] ✅ Đã insert team San Diego BW (#6084) vào MySQL
+[2025-03-30 18:55:25] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emb_0635_f_l.png.webp
+[2025-03-30 18:55:25] ✅ Đã insert competition USL Championship (635) vào MySQL
+[2025-03-30 18:55:26] ✅ Đã insert team Charleston Battery (#5776) vào MySQL
+[2025-03-30 18:55:27] ✅ Đã insert team Hartford Athletic (#5778) vào MySQL
+[2025-03-30 18:55:28] ✅ Đã insert team Loudoun United FC (#5779) vào MySQL
+[2025-03-30 18:55:29] ✅ Đã insert team Miami FC (#5780) vào MySQL
+[2025-03-30 18:55:31] ✅ Đã insert team Pittsburgh Riverhounds (#5782) vào MySQL
+[2025-03-30 18:55:33] ✅ Đã insert team Tampa Bay Rowdies (#5783) vào MySQL
+[2025-03-30 18:55:34] ✅ Đã insert team Birmingham Legion FC (#5785) vào MySQL
+[2025-03-30 18:55:36] ✅ Đã insert team FC Tulsa (#5786) vào MySQL
+[2025-03-30 18:55:38] ✅ Đã insert team Indy Eleven (#5787) vào MySQL
+[2025-03-30 18:55:39] ✅ Đã insert team Louisville City FC (#5788) vào MySQL
+[2025-03-30 18:55:40] ✅ Đã insert team Memphis 901 FC (#5789) vào MySQL
+[2025-03-30 18:55:42] ✅ Đã insert team Colorado Springs FC (#5793) vào MySQL
+[2025-03-30 18:55:43] ✅ Đã insert team El Paso Locomotive FC (#5794) vào MySQL
+[2025-03-30 18:55:45] ✅ Đã insert team New Mexico United (#5795) vào MySQL
+[2025-03-30 18:55:46] ✅ Đã insert team San Antonio FC (#5798) vào MySQL
+[2025-03-30 18:55:48] ✅ Đã insert team Las Vegas Lights FC (#5800) vào MySQL
+[2025-03-30 18:55:50] ✅ Đã insert team Oakland Roots SC (#5801) vào MySQL
+[2025-03-30 18:55:51] ✅ Đã insert team Orange County SC (#5802) vào MySQL
+[2025-03-30 18:55:53] ✅ Đã insert team Phoenix Rising FC (#5803) vào MySQL
+[2025-03-30 18:55:54] ✅ Đã insert team Sacramento Republic FC (#5804) vào MySQL
+[2025-03-30 18:55:56] ✅ Đã insert team Monterey Bay F.C. (#5833) vào MySQL
+[2025-03-30 18:55:57] ✅ Đã insert team Detroit City FC (#5835) vào MySQL
+[2025-03-30 18:55:58] ✅ Đã insert team North Carolina FC (#5971) vào MySQL
+[2025-03-30 18:56:00] ✅ Đã insert team Rhode Island FC (#5972) vào MySQL
+[2025-03-30 18:56:01] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emblemOther-clubEurope_ll.png.webp
+[2025-03-30 18:56:01] ✅ Đã insert competition Other European Teams (8002) vào MySQL
+[2025-03-30 18:56:01] ✅ Đã insert team FC Bayern München (#127) vào MySQL
+[2025-03-30 18:56:03] ✅ Đã insert team Bayer 04 Leverkusen (#128) vào MySQL
+[2025-03-30 18:56:03] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emblemOther-clubAsia_ll.png.webp
+[2025-03-30 18:56:03] ✅ Đã insert competition Other Asian Teams (8003) vào MySQL
+[2025-03-30 18:56:04] ✅ Đã insert team Kusatsu BY (#1271) vào MySQL
+[2025-03-30 18:56:05] ✅ Đã insert team Tochigi Y (#1278) vào MySQL
+[2025-03-30 18:56:06] ✅ Đã insert team Kagoshima WB (#5386) vào MySQL
+[2025-03-30 18:56:08] ✅ Đã insert team myClub Default (#5807) vào MySQL
+[2025-03-30 18:56:09] ✅ Đã insert team Incheon BB (#5915) vào MySQL
+[2025-03-30 18:56:10] ✅ Đã insert team Urawa R (#16531) vào MySQL
+[2025-03-30 18:56:13] ✅ Đã insert team Kofu B (#16550) vào MySQL
+[2025-03-30 18:56:14] ✅ Đã insert team Jeddah YB (#17734) vào MySQL
+[2025-03-30 18:56:15] ✅ Đã insert team Doha R (#18951) vào MySQL
+[2025-03-30 18:56:16] ✅ Đã insert team Hanoi MV (#20501) vào MySQL
+[2025-03-30 18:56:18] ✅ Đã insert team Thanyaburi ND (#21325) vào MySQL
+[2025-03-30 18:56:20] ✅ Đã insert team Hong Kong BW (#21330) vào MySQL
+[2025-03-30 18:56:21] ✅ Đã insert team Olmaliq QS (#21987) vào MySQL
+[2025-03-30 18:56:23] ✅ Đã insert team Wuhan B (#22112) vào MySQL
+[2025-03-30 18:56:23] ✅ Đã insert team Melbourne B (#22157) vào MySQL
+[2025-03-30 18:56:24] ✅ Đã insert team Mumbai B (#22257) vào MySQL
+[2025-03-30 18:56:26] ✅ Đã insert team Abadan GW (#22259) vào MySQL
+[2025-03-30 18:56:27] ✅ Đã insert team Incheon BB (#22299) vào MySQL
+[2025-03-30 18:56:29] ✅ Đã insert team Mazandaran R (#22316) vào MySQL
+[2025-03-30 18:56:30] ✅ Đã insert team Amman BW (#22318) vào MySQL
+[2025-03-30 18:56:31] ✅ Đã insert team Al Majmaah OB (#22324) vào MySQL
+[2025-03-30 18:56:32] ✅ Đã insert team Namangan RW (#22325) vào MySQL
+[2025-03-30 18:56:33] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emblemOther-clubLatinAmerica_ll.png.webp
+[2025-03-30 18:56:33] ✅ Đã insert competition Other Latin American Teams (8006) vào MySQL
+[2025-03-30 18:56:34] ✅ Đã insert team Calama NN (#2549) vào MySQL
+[2025-03-30 18:56:35] ✅ Đã insert team Boyacá RV (#2655) vào MySQL
+[2025-03-30 18:56:37] ✅ Đã insert team Copiapó BR (#2710) vào MySQL
+[2025-03-30 18:56:38] ✅ Đã insert team Córdoba A (#5210) vào MySQL
+[2025-03-30 18:56:39] [DEBUG] logo_path HTML: https://api.efootballdb.com/assets/2022/competitions/emblemOther-clubAfrica_ll.png.webp
+[2025-03-30 18:56:39] ✅ Đã insert competition Other African Teams (8007) vào MySQL

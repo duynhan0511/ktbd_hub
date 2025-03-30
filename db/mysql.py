@@ -1,6 +1,7 @@
 import pymysql
 import hashlib
 import json
+import sys
 from configs.settings import MYSQL_CONFIG
 from utils.helpers import logger
 import traceback
@@ -17,8 +18,6 @@ def insert_player(player):
         with conn.cursor() as cursor:
             cursor.execute("SELECT data_hash FROM players WHERE pes_id = %s", (player["pes_id"],))
             result = cursor.fetchone()
-
-            print("result", result)
 
             if result is not None and result["data_hash"] == player_hash:
                 logger(f"⏩ Player {player['player_name']} ({player['pes_id']}) không thay đổi, bỏ qua.")
@@ -131,16 +130,17 @@ def insert_team(team):
 
             sql = """
             INSERT INTO teams (
-                team_id, manager_id, base_manager_id,
+                team_id, manager_id, competition_id, base_manager_id,
                 transfer_budget, salary_budget, name, official_name, short_name,
                 region_id, stadium_id, team_sort_number, non_playable_league, data_hash
             ) VALUES (
-                %(team_id)s, %(manager_id)s, %(base_manager_id)s,
+                %(team_id)s, %(manager_id)s, %(competition_id)s, %(base_manager_id)s,
                 %(transfer_budget)s, %(salary_budget)s, %(name)s, %(official_name)s, %(short_name)s,
                 %(region_id)s, %(stadium_id)s, %(team_sort_number)s, %(non_playable_league)s, %(data_hash)s
             )
             ON DUPLICATE KEY UPDATE
                 manager_id = VALUES(manager_id),
+                competition_id = VALUES(competition_id),
                 base_manager_id = VALUES(base_manager_id),
                 transfer_budget = VALUES(transfer_budget),
                 salary_budget = VALUES(salary_budget),
@@ -160,6 +160,44 @@ def insert_team(team):
     except Exception as e:
         print("⚠️ Lỗi thật:", e)
         print("⚠️ Dữ liệu team:", team)
+        traceback.print_exc()
+    finally:
+        conn.close()
+
+def insert_competition(competition):
+    competition_hash = generate_hash(competition)
+    competition["data_hash"] = competition_hash
+    conn = pymysql.connect(**MYSQL_CONFIG)
+
+    print("competition", competition)
+
+    try:
+        with conn.cursor() as cursor:
+            cursor.execute("SELECT data_hash FROM competitions WHERE com_id = %s", (competition["com_id"],))
+            result = cursor.fetchone()
+
+            if result is not None and result["data_hash"] == competition_hash:
+                logger(f"⏩ Competition {competition['name']} ({competition['com_id']}) không thay đổi, bỏ qua.")
+                return
+
+            sql = """
+            INSERT INTO competitions (
+                com_id, name, logo_path, data_hash
+            ) VALUES (
+                %(com_id)s, %(name)s, %(logo_path)s, %(data_hash)s
+            )
+            ON DUPLICATE KEY UPDATE
+                name = VALUES(name),
+                logo_path = VALUES(logo_path),
+                data_hash = VALUES(data_hash),
+                updated_at = CURRENT_TIMESTAMP;
+            """
+            cursor.execute(sql, competition)
+        conn.commit()
+        logger(f"✅ Đã insert competition {competition['name']} ({competition['com_id']}) vào MySQL")
+    except Exception as e:
+        print("⚠️ Lỗi insert competition:", e)
+        print("⚠️ Dữ liệu:", competition)
         traceback.print_exc()
     finally:
         conn.close()
