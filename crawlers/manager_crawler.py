@@ -3,7 +3,7 @@ import time
 from configs.settings import BASE_API_URL
 from parsers.manager_parser import parse_manager
 from db.mysql import insert_manager
-from utils.helpers import logger
+from utils.helpers import logger, smart_delay
 
 def get_manager_detail(manager_id):
     url = f"{BASE_API_URL}/managers/{manager_id}"
@@ -53,7 +53,7 @@ def crawl_managers_all():
             parsed = parse_manager(m)  # parse trực tiếp từ item của list
             insert_manager(parsed)
             total_inserted += 1
-            time.sleep(0.8)  # delay để tránh bị block
+            smart_delay()
 
         if page >= last_page:
             logger("✅ Đã đến trang cuối cùng, dừng lại.")
