@@ -8,6 +8,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import TabSelector from '@/components/TabSelector'
 import SectionTitle from '@/components/SectionTitle'
+import PlayerCardSimple from '@/components/PlayerCardSimple'
 
 export default function Home() {
   const [players, setPlayers] = useState<Player[]>([])
@@ -31,13 +32,11 @@ export default function Home() {
         <SectionTitle title="Player of the Week" highlightColor="text-cyan-300" />
         <TabSelector tab={tab} setTab={setTab} />
 
-        <div className="mt-8 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6 justify-center">
-          {players
-            .filter(p => p.player_name.toLowerCase().includes(search.toLowerCase()))
-            .map(player => (
-              <PlayerCard key={player.pes_id} player={player} />
-            ))}
-        </div>
+        <section className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6">
+          {mockPlayers.map((player) => (
+            <PlayerCardSimple key={player.id} player={player} />
+          ))}
+        </section>
       </main>
 
       <Footer />

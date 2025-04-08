@@ -15,4 +15,5 @@ export type Player = {
     def: number;
   };
   style: string;
+  card_type: string;
 }
